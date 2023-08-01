@@ -1,4 +1,18 @@
 # opBNB Wishlist
+
+Welcome to the opBNB Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the opBNB ecosystem.
+
+Challenges Summary:
+
+1. [Bridging L2 Networks for Seamless Cross-Chain Activity](#challenge-bridging-l2-networks-for-seamless-cross-chain-activity)
+2. [opBNB Data Availability Layer on Greenfield](#challenge-opbnb-data-availability-layer-on-greenfield)
+3. [Empowering opBNB with Advanced Analytics Support](#challenge-empowering-opbnb-with-advanced-analytics-support)
+4. [Account Abstraction Layer for opBNB](#challenge-account-abstraction-layer-for-opbnb)
+
+Join our community in revolutionizing opBNB and driving innovation in the decentralized space. Embrace these challenges to shape the future of opBNB together!
+
+# Challenges
+
 ## Challenge: Bridging L2 Networks for Seamless Cross-Chain Activity
 
 ### Main Objectives/Goals:
@@ -30,7 +44,7 @@ By creating these bridges, the challenge aims to foster a better user
 experience, empowering users to become L2 citizens. The bridges will break 
 down barriers and enable efficient asset movement between L2 networks, 
 enhancing the overall usability and adoption of L2 solutions.
-## Challenge: opBNB Data Availabiity Layer on Greenfield
+## Challenge: opBNB Data Availability Layer on Greenfield
 
 ### Main Objectives/Goals:
 1. Create a data availability layer for opBNB rollup chain.
