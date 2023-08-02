@@ -1,4 +1,17 @@
 # BSC Wishlist
+
+Welcome to the BNB Smart Chain (BSC) Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the BSC ecosystem. 
+
+Challenges Summary:
+
+1. [BNB Chain Governance](#challenge-bnb-chain-governance)
+2. [User-Friendly Multi-Chain Wallet Interface](#challenge-user-friendly-multi-chain-wallet-interface)
+3. [Accelerating Blockchain Node Synchronization](#challenge-accelerating-blockchain-node-synchronization)
+
+Join our community in shaping the future of BSC and pushing the boundaries of decentralized solutions. Together, let's embrace these challenges and unlock the full potential of BNB Smart Chain!
+
+# Challenges
+
 ## Challenge: BNB Chain governance
 
 ### Main Objectives/Goals:
@@ -37,7 +50,7 @@ ecosystem aims to enhance the governance mechanisms critical to its
 function and growth. The platform will bridge the gap caused by the 
 expansion of chains and enable the seamless participation of BNB token 
 holders in shaping the future of the network.
-## Challenge: User-friendly multi-chain wallet interface.
+## Challenge: User-friendly multi-chain wallet interface
 
 ### Main Objectives/Goals:
 1. Create user-friendly multi-chain wallet interface.

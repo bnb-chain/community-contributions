@@ -1,5 +1,17 @@
-
 # BNB Greenfield Wishlist
+
+Welcome to the BNB Greenfield Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the BNB Greenfield ecosystem. 
+
+Challenges Summary:
+1. [Data Migration](#challenge-data-migration)
+2. [Mobile App for Greenfield](#challenge-mobile-app-for-greenfield)
+3. [Leveraging BNB Greenfield for L1 Data Storage](#challenge-leveraging-bnb-greenfield-for-l1-data-storage)
+4. [NFT Minting and Issuing Tooling](#challenge-nft-minting-and-issuing-tooling)
+
+Embark on these challenges to contribute to the growth and success of the BNB Greenfield platform! Let's innovate together and shape the future of decentralized solutions.
+
+# Challenges
+
 ## Challenge: Data Migration
 
 ### Main Objectives/Goals
@@ -77,3 +89,17 @@ in an improved user experience.
 Additionally, the proposed solution should allow for efficient retrieval 
 of dormant or dead data whenever required, ensuring valuable information 
 remains accessible and not lost over time.
+
+## Challenge: NFT Minting and Issuing tooling
+
+### Main Objectives/Goals
+1. Develop NFT Minting Tooling for easy off-chain data uploading.
+2. Prioritize seamless user experience and data security.
+3. Use BSC mirroring for interoperability and broader accessibility.
+
+### Challenge Description
+The problem at hand lies in the need for a robust storage service or API that allows easy off-chain NFT data uploading. Users often encounter challenges when storing NFT-related data, such as metadata, images, and other assets referenced in a token or its metadata, in a secure and decentralized manner. The proposed solution addresses this by storing NFT data perpetually in the Greenfield decentralized storage network while also mirroring the NFTs in BSC as ERC721 or ERC1155 tokens.
+
+Participants are tasked with developing a comprehensive NFT Minting Tooling that simplifies the process of creating and managing NFTs. The tooling should be designed to offer a seamless user experience, enabling users to easily upload and manage NFT data off-chain. Emphasis should be placed on the security and integrity of the stored data, ensuring that NFT-related assets remain secure and accessible at all times.
+
+The challenge should highlight the importance of mirroring the NFTs in BSC using standard ERC721 or ERC1155 tokens. This feature will promote interoperability and expand the reach of the NFTs, allowing them to be utilized and traded on both BNB Greenfield and BSC platforms.
