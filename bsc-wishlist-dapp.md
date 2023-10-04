@@ -4,13 +4,13 @@ Welcome to the BNB Smart Chain (BSC) Challenge Wishlist! Our community has outli
 
 Wishlist Summary:
 
-1. [BNB Smart Chain On-chain Identity](##BNB Smart Chain On-chain Identity)
-1. [BNB Smart Chain AI generated content platform](##BNB Smart Chain AI generated content platform )
-1. [Real World Asset tokenisation on BNB Smart Chain](##Real World Asset tokenisation on BNB Smart Chain)
-1. [Advanced DeFi](##Advanced DeFi)
-1. [Decentralized Social Network](##Decentralized Social Network)
-1. [Stable Coin Payment for BNB Smart Chain](##Stable Coin Payment for BNB Smart Chain)
-1. [ZK-based Data exchange](##ZK-based Data exchange)
+1. [BNB Smart Chain On-chain Identity](#challenge-bnb-smart-chain-on-chain-identity)
+1. [BNB Smart Chain AI generated content platform](#challenge-bnb-smart-chain-ai-generated-content-platform)
+1. [Real World Asset tokenization on BNB Smart Chain](#challenge-real-world-asset-tokenization-on-bnb-smart-chain)
+1. [Advanced DeFi](#challenge-advanced-defi)
+1. [Decentralized Social Network](#challenge-decentralized-social-network)
+1. [Stable Coin Payment for BNB Smart Chain](#challenge-stable-coin-payment-for-bnb-smart-chain)
+1. [ZK-based Data exchange](#challenge-zk-based-data-exchange)
 
 
 
@@ -24,7 +24,7 @@ Join our community in shaping the future of BSC and pushing the boundaries of de
 
 ### Main Objectives/Goals:
 
-1. Improve the ecosystem of identitiy service on the BSC chain.
+1. Improve the ecosystem of identity service on the BSC chain.
 2. Promote the innovative applications based on the identity service.
 
 ### Challenge Description:
@@ -41,7 +41,7 @@ We are looking for a proposal of a on-chain identity service for BNB Smart Chain
 ## Challenge: BNB Smart Chain AI generated content platform 
 
 ### Main Objectives/Goals:
-1. AI generated content tokenziation
+1. AI generated content tokenization
 2. Improve AI generated content ecosystem by on-chain governance
 
 ### Challenge Description:
@@ -49,7 +49,7 @@ We are looking for a proposal of a on chain AI generated content platform servic
 
 
 
-## Challenge: Real World Asset tokenisation on BNB Smart Chain
+## Challenge: Real World Asset tokenization on BNB Smart Chain
 
 ### Main Objectives/Goals:
 
@@ -88,8 +88,8 @@ We are looking for proposals of advanced DeFi projects that can leverage the BNB
 ### Main Objectives/Goals:
 
 1. Innovate on the social network with blockchain technology
-2. Protect and tokenise user data and contents
-3. Censorship resistence
+2. Protect and tokenize user data and contents
+3. Censorship resistance
 
 ### Challenge Description:
 
@@ -110,8 +110,6 @@ We are looking for proposals of stable coin payment solutions that leverage the 
 
 
 
-
-
 ## Challenge: ZK-based Data exchange
 
 ### Main Objectives/Goals: 
@@ -127,7 +125,7 @@ We are looking for proposals to develop a zero-knowledge proof (ZKP) based data 
 - Data consumers can browse the available data sets and request access to the ones they are interested in.
 - Data providers can verify the identity and eligibility of data consumers using ZKP techniques, such as zk-SNARKs or zk-STARKs.
 - Data consumers can pay for the data access using BNB tokens or other supported cryptocurrencies on the BSC network.
-- Data providers can deliver the data to the data consumers using secure encryption and decryption protocols, such as homomorphic encryption or secret sharing.
+- Data providers can deliver the data to the data consumers using secure encryption and decryption protocols, such as encryption or secret sharing.
 - Data consumers can verify the authenticity and integrity of the data using ZKP techniques, such as zero-knowledge proofs of knowledge or zero-knowledge proofs of membership.
 - Data providers and consumers can rate and review each other based on their experience and satisfaction.
 

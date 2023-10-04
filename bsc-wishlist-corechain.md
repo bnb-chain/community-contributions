@@ -4,14 +4,14 @@ Welcome to the BNB Smart Chain (BSC) Challenge Wishlist! Our community has outli
 
 Wishlist Summary:
 
-1. [BNB Smart Chain Consensus Enhancement to encourage fair plan of validators and stabilization of blocks](##BNB Smart Chain Consensus Enhancement to encourage fair plan of validators and stabilization of blocks)
-2. [BNB Chain governance enhancement](##BNB Chain governance enhancement)
-3. [Accelerating Blockchain Node Synchronization](##Accelerating Blockchain Node Synchronization)
-4. [Long Term Archive Service Support](##Long Term Archive Service Support)
-5. [Fair MEV Infrastructure Enhancement](##Fair MEV Infrastructure Enhancement)
-6. [Alternative clients for BNB Smart Chain](##Alternative clients for BNB Smart Chain)
-7. [Privacy Protection Transactions Protect](##Privacy Protection Transactions Protect)
-8. [Stateless on BSC](##Stateless on BSC)
+1. [BNB Smart Chain Consensus Enhancement to encourage fair plan of validators and stabilization of blocks](#challenge-bnb-smart-chain-consensus-enhancement-to-encourage-fair-plan-of-validators-and-stabilization-of-blocks)
+2. [BNB Chain governance enhancement](#challenge-bnb-chain-governance-enhancement)
+3. [Accelerating Blockchain Node Synchronization](#challenge-accelerating-blockchain-node-synchronization)
+4. [Long Term Archive Service Support](#challenge-long-term-archive-service-support)
+5. [Fair MEV Infrastructure Enhancement](#challenge-fair-mev-infrastructure-enhancement)
+6. [Alternative clients for BNB Smart Chain](#challenge-alternative-clients-for-bnb-smart-chain)
+7. [Privacy Protection Transactions Protect](#challenge-privacy-protection-transactions-protect)
+8. [Stateless on BSC](#challenge-stateless-on-bsc)
 
 
 
@@ -82,8 +82,8 @@ We are looking for a talented and innovative developer or team to design and imp
 
 ### Main Objectives/Goals:
 
-1. An incentive mechnism design for archive node maintainers  
-2. A well defined data prunning solution.
+1. An incentive mechanism design for archive node maintainers  
+2. A well defined data pruning solution.
 
 ### Challenge Description:
 
@@ -91,7 +91,7 @@ We are looking for a proposal to design a solution for the BSC network that can 
 
 - To maintain the archive node of opBNB and ensure its data availability and integrity over time.
 - To improve the data availability of the BSC network by increasing the number of archive nodes and reducing the reliance on centralized providers.
-- To enhance the node decentralization of the BSC network by incentivizing more node providers to join and contribute to the network.
+- To enhance the node decentralization of the BSC network by incentivize more node providers to join and contribute to the network.
 - To improve the incentives for node providers by rewarding them for their service quality, availability, and performance.
 
 The proposal should include a detailed description of the solution architecture, design, implementation, testing, deployment, and maintenance. The proposal should also provide a realistic budget and timeline for the project, as well as a risk analysis and mitigation plan. The proposal should demonstrate how the solution can meet the objectives and benefit the BSC network and its users.
@@ -126,9 +126,9 @@ We wish to see proposals for a fair MEV infrastructure that can address the foll
 
 ### Main Objectives/Goals:
 
-1. Client decentralisation.
+1. Client decentralization.
 2. High performance client of BSC for community to maintain.
-3. Multiprogramming languange friendly.
+3. Multiprogramming language friendly.
 
 ### Challenge Description:
 
