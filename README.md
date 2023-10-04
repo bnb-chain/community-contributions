@@ -7,7 +7,7 @@ the beginning – we enthusiastically welcome applications for projects that
 extend beyond these suggestions. Our commitment to innovation knows no 
 bounds, and we eagerly embrace fresh and inventive concepts!
 
-The BNB Chain Wishlist offers a repository to nurture visionary endeavours and make a meaningful impact on the BNB Chain's development. Whether 
+The BNB Chain Wishlist offers a repository to nurture visionary endeavors and make a meaningful impact on the BNB Chain's development. Whether 
 you're exploring novel technologies, devising cutting-edge solutions, or 
 revolutionizing decentralized applications, you can find the most 
 demanding and innovative areas..
@@ -17,6 +17,9 @@ page](https://www.bnbchain.org/en/developers/developer-programs/builder-grant)
 and or forum…. let your brilliance shine on the BNB Chain stage! 🚀🌟
 
 ## Contribution Categories
-- [BSC wishlist](/bsc-wishlist.md)
-- [opBNB wishlist](/opbnb-wishlist.md)
-- [BNB Greenfield wishlist](/bnb-greenfield-wishlist.md)
+- [BSC core chain wishlist](/bsc-wishlist-corechain.md)
+- [BSC dapp wishlist](/bsc-wishlist-dapp.md)
+- [opBNB core chain wishlist](/opbnb-wishlist-corechain.md)
+- [opBNB dapp wishlist](/opbnb-wishlist-dApp.md)
+- [BNB Greenfield core chain wishlist](/bnb-greenfield-wishlist-corechain.md)
+- [BNB Greenfield dapp wishlist](/bnb-greenfield-wishlist-dapp.md)

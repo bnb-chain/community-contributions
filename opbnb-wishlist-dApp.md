@@ -4,7 +4,12 @@ Welcome to the opBNB Challenge Wishlist! Our community has outlined exciting cha
 
 Challenges Summary:
 
-1. [Bridging L2 Networks for Seamless Cross-Chain Activity](#challenge-bridging-l2-networks-for-seamless-cross-chain-activity)
+1. [ZK-based Data exchange](#challenge-zk-based-data-exchange)
+2. [opBNB On-chain Identity](#challenge-opbnb-on-chain-identity)
+3. [opBNB On-chain Game](#challenge-opbnb-on-chain-game)
+4. [Decentralized Social Network](#challenge-decentralized-social-network)
+5. [Perp Dex on opBNB](#challenge-perp-dex-on-opbnb)
+6. [Stable Coin Payment for opBNB](#challenge-stable-coin-payment-for-opbnb)
 
 Join our community in revolutionizing opBNB and driving innovation in the decentralized space. Embrace these challenges to shape the future of opBNB together!
 

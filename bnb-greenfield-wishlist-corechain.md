@@ -7,6 +7,8 @@ Challenges Summary:
 2. [Mobile App for Greenfield](#challenge-mobile-app-for-greenfield)
 3. [Leveraging BNB Greenfield for L1 Data Storage](#challenge-leveraging-bnb-greenfield-for-l1-data-storage)
 4. [NFT Minting and Issuing Tooling](#challenge-nft-minting-and-issuing-tooling)
+5. [Self-host Solution for BNB Greenfield Storage Provider](#challenge-self-host-solution-for-bnb-greenfield-storage-provider)
+6. [Empowering Greenfield with Advanced Analytics Support](#challenge-empowering-greenfield-with-advanced-analytics-support)
 
 Embark on these challenges to contribute to the growth and success of the BNB Greenfield platform! Let's innovate together and shape the future of decentralized solutions.
 
@@ -103,3 +105,60 @@ The problem at hand lies in the need for a robust storage service or API that al
 Participants are tasked with developing a comprehensive NFT Minting Tooling that simplifies the process of creating and managing NFTs. The tooling should be designed to offer a seamless user experience, enabling users to easily upload and manage NFT data off-chain. Emphasis should be placed on the security and integrity of the stored data, ensuring that NFT-related assets remain secure and accessible at all times.
 
 The challenge should highlight the importance of mirroring the NFTs in BSC using standard ERC721 or ERC1155 tokens. This feature will promote interoperability and expand the reach of the NFTs, allowing them to be utilized and traded on both BNB Greenfield and BSC platforms.
+
+
+
+## Challenge: Self-host Solution for BNB Greenfield Storage Provider
+
+### Main Objectives/Goals
+
+1. Develop sustainable self-host solution for sp of BNB Greenfield
+
+### Challenge Description
+
+We are looking for a self-host storage provider for our BNB Greenfield project, which aims to create a sustainable and innovative platform for short-term rentals. We want to avoid relying on cloud vendors and have more control over our data and infrastructure. We are interested in proposals that can offer us a scalable, secure, and cost-effective solution that meets our business and technical requirements.
+
+Some of the key features we are looking for are:
+
+- High availability and reliability: The storage provider should ensure that our data is always accessible and protected from failures, disasters, or malicious attacks.
+- Performance and efficiency: The storage provider should deliver fast and consistent performance for our data-intensive applications and optimize the use of resources and energy.
+- Flexibility and compatibility: The storage provider should support various types of data (structured, unstructured, binary, etc.) and integrate well with our existing systems and tools.
+- Compliance and governance: The storage provider should comply with the relevant laws and regulations regarding data privacy, security, and sovereignty, and provide us with the necessary audit and reporting capabilities.
+
+
+
+## Challenge: Empowering Greenfield with Advanced Analytics Support
+
+### Main Objectives/Goals:
+
+1. Revolutionize storage network analytics.
+2. Create an intuitive analytics dashboard for greenfield data insights.
+3. Build open-source block explorer and real-time status dashboards.
+
+### Challenge Description:
+
+The challenge seeks to revolutionize Greenfield by providing comprehensive 
+analytics support, enabling users to gain valuable data insights and 
+enhance the efficiency and effectiveness of their storage network activities. The 
+primary goal is to develop a powerful analytics ecosystem that encompasses 
+various essential elements.
+
+The first objective is to design and implement an analytics dashboard that 
+offers users access to useful data insights. This dashboard will serve as 
+a centralized hub for users to explore and visualize different aspects, 
+such as gas costs, security metrics, and potential savings over a longer 
+timeframe. The focus is on creating an intuitive and user-friendly 
+interface that empowers users to make informed decisions based on 
+real-time data.
+
+The second aspect of the challenge involves building an open-source block 
+explorer. This explorer should offer users the 
+ability to delve deep into the data, providing them with a comprehensive view of their Greenfield object management transactions and activities. This feature will promote 
+transparency and encourage in-depth research and analysis, leading to novel insights and discoveries.
+
+Moreover, the challenge aims to develop status dashboards that 
+continuously monitor the health of the Greenfield network. These dashboards 
+will provide real-time updates on network performance, identifying 
+potential issues and areas for improvement. By offering network health 
+monitoring tools, users can proactively address challenges and ensure the 
+smooth operation of their storage network activities.
