@@ -8,6 +8,12 @@ Challenges Summary:
 2. [opBNB Data Availability Layer on Greenfield](#challenge-opbnb-data-availability-layer-on-greenfield)
 3. [Empowering opBNB with Advanced Analytics Support](#challenge-empowering-opbnb-with-advanced-analytics-support)
 4. [Account Abstraction Layer for opBNB](#challenge-account-abstraction-layer-for-opbnb)
+5. [Accelerating opBNB Node Synchronization](#challenge-accelerating-opbnb-node-synchronization)
+6. [Long Term Archive Service Support](#challenge-long-term-archive-service-support)
+7. [Fair MEV Infrastructure Enhancement](#challenge-fair-mev-infrastructure-enhancement)
+8. [Alternative clients for opBNB](#challenge-alternative-clients-for-opbnb)
+
+
 
 Join our community in revolutionizing opBNB and driving innovation in the decentralized space. Embrace these challenges to shape the future of opBNB together!
 
@@ -83,6 +89,7 @@ promptly is crucial to ensuring timely and reliable data availability.
 Overall, the successful implementation of the data availability layer will 
 significantly improve the performance and adoption of opBNB, benefiting 
 the entire blockchain ecosystem.
+
 ## Challenge: Empowering opBNB with Advanced Analytics Support
 
 ### Main Objectives/Goals:
@@ -152,3 +159,86 @@ securely, fostering innovation and improved user experiences in the BNB
 ecosystem. The account abstraction layer will streamline authorization for 
 actions on behalf of accounts, promoting enhanced security and 
 accessibility for users.
+
+
+
+## Challenge: Accelerating opBNB Node Synchronization
+
+### Main Objectives/Goals:
+
+1. Accelerate blockchain node synchronization.
+2. Reduce resources and energy consumption.
+3. Prioritize data integrity and security.
+
+### Challenge Description:
+
+We are looking for a talented and innovative developer or team to design and implement a method or algorithm that can significantly speed up the synchronization process for new nodes joining the opBNB network. The solution should enhance the decentralization and reliability of the network, as well as be compatible with the existing opBNB/BSC protocol and infrastructure. The proposal should include the following information:
+
+- A clear and detailed description of the method or algorithm, including its advantages, limitations, and assumptions.
+- A technical analysis of the expected performance, scalability, security, and feasibility of the solution, as well as its impact on the network bandwidth, latency, and resource consumption.
+- A roadmap and timeline for the development, testing, deployment, and maintenance of the solution, as well as a budget estimate and a breakdown of the costs.
+- A demonstration or proof-of-concept of the solution, preferably on a testnet or a simulated environment, showing its functionality and effectiveness.
+- A list of references and previous works related to the topic, as well as any relevant credentials or qualifications.
+
+
+
+## Challenge: Long Term Archive Service Support
+
+### Main Objectives/Goals:
+
+1. An incentive mechanism design for archive node maintainers  
+2. A well defined data pruning solution.
+
+### Challenge Description:
+
+We are looking for a proposal to design a solution for the BSC network that can provide long term archive service support for opBNB and other applications. The solution should have the following objectives:
+
+- To maintain the archive node of opBNB and ensure its data availability and integrity over time.
+- To improve the data availability of the BSC network by increasing the number of archive nodes and reducing the reliance on centralized providers.
+- To enhance the node decentralization of the BSC network by incentivize more node providers to join and contribute to the network.
+- To improve the incentives for node providers by rewarding them for their service quality, availability, and performance.
+
+The proposal should include a detailed description of the solution architecture, design, implementation, testing, deployment, and maintenance. The proposal should also provide a realistic budget and timeline for the project, as well as a risk analysis and mitigation plan. The proposal should demonstrate how the solution can meet the objectives and benefit the BSC network and its users.
+
+
+
+## Challenge: Fair MEV Infrastructure Enhancement
+
+### Main Objectives/Goals:
+
+1. Build a fair MEV infrastructure that is public to all users and developers.
+2. Enhance the fairness of the opBNB ecosystem.
+3. A public MEV interface standard on opBNB.
+
+### Challenge Description:
+
+One of the challenges of implementing MEV (Miner Extractable Value) on opBNB is to establish a public interface standard that can be adopted by the ecosystem stakeholders and users. A public MEV interface standard would enable a transparent and fair way of capturing the value from transactions on opBNB, while minimizing the negative externalities such as network congestion, front-running, and unfair competition. 
+
+We wish to see proposals for a fair MEV infrastructure that can address the following aspects:
+
+- How to define and measure the value extracted by validators and other actors from transactions on opBNB
+- How to design and implement a public MEV interface standard that can be easily integrated with existing opBNB protocols and applications
+- How to ensure that the MEV interface standard is compatible with the security, scalability, and decentralization of opBNB
+- How to incentivize and reward the participation of relayers, arbitrageurs, and users in the MEV ecosystem
+- How to mitigate the potential risks and challenges of introducing MEV on BSC, such as ethical, legal, and regulatory issues
+
+
+
+## Challenge: Alternative clients for opBNB
+
+### Main Objectives/Goals:
+
+1. Client decentralization.
+2. High performance client of opBNB for community to maintain.
+3. Multiprogramming language friendly.
+
+### Challenge Description:
+
+We are looking for blockchain developers who are interested in developing and maintaining alternative opBNB clients. opBNB is a fast and low cost L2 blockchain platform that supports smart contracts and decentralized applications. However, opBNB currently relies on few implementations of its protocol, which poses a risk to its security and resilience. We believe that having multiple implementations of the opBNB protocol will increase the decentralization and diversity of the opBNB network, and foster innovation and collaboration among the BNB Chain community.
+
+Key considerations:
+
+1. It is a high performance client implementation that can support the big block size of opBNB.
+
+2. Fast synchronization with the opBNB network.
+
