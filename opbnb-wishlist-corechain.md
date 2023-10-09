@@ -1,4 +1,4 @@
-# opBNB Wishlist
+# opBNB Core Chain Wishlist
 
 Welcome to the opBNB Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the opBNB ecosystem.
 
@@ -7,11 +7,10 @@ Challenges Summary:
 1. [Bridging L2 Networks for Seamless Cross-Chain Activity](#challenge-bridging-l2-networks-for-seamless-cross-chain-activity)
 2. [opBNB Data Availability Layer on Greenfield](#challenge-opbnb-data-availability-layer-on-greenfield)
 3. [Empowering opBNB with Advanced Analytics Support](#challenge-empowering-opbnb-with-advanced-analytics-support)
-4. [Account Abstraction Layer for opBNB](#challenge-account-abstraction-layer-for-opbnb)
-5. [Accelerating opBNB Node Synchronization](#challenge-accelerating-opbnb-node-synchronization)
-6. [Long Term Archive Service Support](#challenge-long-term-archive-service-support)
-7. [Fair MEV Infrastructure Enhancement](#challenge-fair-mev-infrastructure-enhancement)
-8. [Alternative clients for opBNB](#challenge-alternative-clients-for-opbnb)
+4. [Accelerating opBNB Node Synchronization](#challenge-accelerating-opbnb-node-synchronization)
+5. [Long Term Archive Service Support](#challenge-long-term-archive-service-support)
+6. [Fair MEV Infrastructure Enhancement](#challenge-fair-mev-infrastructure-enhancement)
+7. [Alternative clients for opBNB](#challenge-alternative-clients-for-opbnb)
 
 
 
@@ -125,40 +124,6 @@ will provide real-time updates on network performance, identifying
 potential issues and areas for improvement. By offering network health 
 monitoring tools, users can proactively address challenges and ensure the 
 smooth operation of their L2 activities.
-
-## Challenge: Account abstraction layer for opBNB
-
-### Main Objectives/Goals:
-
-1. Implement efficient and secure account abstraction in smart contract 
-wallets.
-2. Prioritize efficiency, security, and backward compatibility.
-3. Streamline authorization for improved security and user experience.
-
-### Challenge Description:
-The introduction of account abstraction in the EVM ecosystem has created 
-momentum for defining authorization policies in smart contract wallets. 
-However, this split of validation and execution steps in the bundling 
-process poses potential issues for bundlers operating on L2 transactions 
-both for opBNB and other potential L2s wishing to extend to BSC. The delay 
-between simulated transaction validation and final inclusion by sequencers 
-introduces a risk of reverted bundle submissions, leading to lost value 
-for bundlers. 
-
-The challenge is to develop an account abstraction layer for opBNB and BSC 
-that efficiently handles authorization policies for actions on behalf of 
-an account. The solution should be secure and backwards compatible with 
-the Ethereum community to ensure smooth adoption. 
-
-The proposed solution should prioritize efficiency and security while 
-complying with the EIP-4337 requirements. Backward compatibility is 
-essential to facilitate seamless integration and adoption by the broader 
-types of L2s. Successful implementation will enable users to define 
-authorization policies within smart contract wallets efficiently and 
-securely, fostering innovation and improved user experiences in the BNB 
-ecosystem. The account abstraction layer will streamline authorization for 
-actions on behalf of accounts, promoting enhanced security and 
-accessibility for users.
 
 
 

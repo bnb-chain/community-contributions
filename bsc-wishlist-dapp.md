@@ -5,19 +5,19 @@ Welcome to the BNB Smart Chain (BSC) Challenge Wishlist! Our community has outli
 Wishlist Summary:
 
 1. [BNB Smart Chain On-chain Identity](#challenge-bnb-smart-chain-on-chain-identity)
-1. [BNB Smart Chain AI generated content platform](#challenge-bnb-smart-chain-ai-generated-content-platform)
-1. [Real World Asset tokenization on BNB Smart Chain](#challenge-real-world-asset-tokenization-on-bnb-smart-chain)
-1. [Advanced DeFi](#challenge-advanced-defi)
-1. [Decentralized Social Network](#challenge-decentralized-social-network)
-1. [Stable Coin Payment for BNB Smart Chain](#challenge-stable-coin-payment-for-bnb-smart-chain)
-1. [ZK-based Data exchange](#challenge-zk-based-data-exchange)
+2. [BNB Smart Chain AI generated content platform](#challenge-bnb-smart-chain-ai-generated-content-platform)
+3. [Real World Asset tokenization on BNB Smart Chain](#challenge-real-world-asset-tokenization-on-bnb-smart-chain)
+4. [Advanced DeFi](#challenge-advanced-defi)
+5. [Decentralized Social Network](#challenge-decentralized-social-network)
+6. [Stable Coin Payment for BNB Smart Chain](#challenge-stable-coin-payment-for-bnb-smart-chain)
+7. [ZK-based Data exchange](#challenge-zk-based-data-exchange)
+8. [Intent-based Protocol]()
 
 
 
 Join our community in shaping the future of BSC and pushing the boundaries of decentralized solutions. Together, let's embrace these challenges and unlock the full potential of BNB Smart Chain!
 
 # Challenges
-
 
 
 ## Challenge: BNB Smart Chain On-chain Identity
@@ -130,3 +130,22 @@ We are looking for proposals to develop a zero-knowledge proof (ZKP) based data 
 - Data providers and consumers can rate and review each other based on their experience and satisfaction.
 
 We are looking for proposals that demonstrate the feasibility, scalability and security of the ZKP data marketplace, as well as the potential benefits and use cases for various industries and sectors. The proposals should include a detailed technical design, a realistic timeline and budget, and a clear evaluation plan. The proposals should also address the challenges and risks involved in implementing the ZKP data marketplace, such as regulatory compliance, interoperability, user adoption and incentive alignment.
+
+
+## Challenge: Intent-based protocol
+
+### Main Objectives/Goals: 
+
+1. Make users’ demand to be clearly expressed and executed accurately on-chain through multiple protocols/ tools.
+2. High efficiency with low user barriers to enable onboarding more users.
+
+
+### Challenge Description:
+
+We are looking for proposals of building intent-based protocol on top of BNB Smart Chain that can:
+1. Utilise Account Abstraction Solution to lower done user barrier;
+2. Integrate different protocols/tools like dexes, bridges,anti-mev tool on BNBChain to solve the existing issues of dapps including fragmented user experience,low efficiency and etc.
+3. Involve AI solution to assist users in decision making. 
+4. Better demonstrate the high performance and low cost of BNB Smart Chain
+5. Can be compatible with other intent solver/protocols in the future.
+This proposal should clearly state what unique values/features it can bring to BNBChain Smart Chain ecosystem and also address the potential risk like privacy issue and security issue.
