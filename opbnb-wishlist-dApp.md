@@ -1,4 +1,4 @@
-# opBNB Wishlist
+# opBNB dApps Wishlist
 
 Welcome to the opBNB Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the opBNB ecosystem.
 

@@ -1,4 +1,4 @@
-# BNB Greenfield Wishlist
+# BNB Greenfield dApp Wishlist
 
 Welcome to the BNB Greenfield Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the BNB Greenfield ecosystem. 
 
