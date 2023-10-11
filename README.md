@@ -1,20 +1,17 @@
-# BNB Chain Wishlist: Most demanding and innovative ideas
+# BNB Chain Grant Wishlist: Most demanding and innovative ideas
 
-Looking to embark on your next groundbreaking project? Look no further! We 
-present you with an array of inspiring ideas crucial for propelling the 
-growth of the dynamic BNB Chain ecosystem. 🌱 However, this list is just 
-the beginning – we enthusiastically welcome applications for projects that 
-extend beyond these suggestions. Our commitment to innovation knows no 
-bounds, and we eagerly embrace fresh and inventive concepts!
+The BNB Chain Grant Wishlist is a program that aims to support and reward the most ambitious and creative projects that leverage the BNB Chain ecosystem. The program invites developers, entrepreneurs, researchers, and enthusiasts to submit their proposals for novel and impactful solutions that can benefit from the fast, secure, and scalable BNB Chain ecosystem. The program offers grants, as well as technical guidance, mentorship, and exposure to the BNB Chain community. The program is open to anyone who has a vision and a passion for building the future of decentralized applications on BNB Chain. 🌱
 
-The BNB Chain Wishlist offers a repository to nurture visionary endeavors and make a meaningful impact on the BNB Chain's development. Whether 
-you're exploring novel technologies, devising cutting-edge solutions, or 
+This list is just the beginning – we enthusiastically welcome applications for projects that 
+extend beyond these suggestions. Our commitment to innovation knows no bounds, and we eagerly embrace fresh and inventive concepts!
+
+The BNB Chain Wishlist offers a repository to nurture visionary endeavors and make a meaningful impact on the BNB Chain's development. Whether you're exploring novel technologies, devising cutting-edge solutions, or 
 revolutionizing decentralized applications, you can find the most 
-demanding and innovative areas..
+demanding and innovative areas.
 
 Be part of the innovation revolution. Submit your ideas  on [grants 
 page](https://www.bnbchain.org/en/developers/developer-programs/builder-grant) 
-and or forum…. let your brilliance shine on the BNB Chain stage! 🚀🌟
+and or [forum](https://forum.bnbchain.org/t/join-bnb-chain-and-help-shape-the-future-of-web3-wishlist-of-bnb-chain/2067). let your brilliance shine on the BNB Chain stage! 🚀🌟
 
 ## Contribution Categories
 - [BSC core chain wishlist](/bsc-wishlist-corechain.md)
