@@ -122,3 +122,184 @@ Considerations:
 
 A CDN (Content Delivery Network) is a system of distributed servers that deliver web content to users based on their geographic location, the origin of the content, and the content delivery server . A CDN can improve the speed, reliability, and security of web applications by caching static content on edge servers and reducing the load on the origin server.
 Building a CDN with BNB Greenfield would involve using its storage provider module, which is responsible for storing and retrieving data from the BNB Greenfield. 
+
+## Challenge: Greenfield Tagging and Indexing Service
+
+### Main Objectives/Goals
+1. Efficient Indexing and Database Integration
+
+The system must efficiently store this tag data in a database to facilitate easy querying.
+
+Emphasize the need for a scalable and optimized database schema that caters to tag-based searches.
+
+2. Real-Time Synchronization with the Blockchain
+
+The solution should detail the approach to maintaining data integrity and consistency during the synchronization process.
+
+3. Advanced Query Interface for Tag Data
+
+The interface should enable users to retrieve comprehensive information based on tag queries.
+
+Highlight the need for various query capabilities, including:
+
+- Retrieval of object or bucket IDs based on specific tags.
+- Fetching all associated tags for a given object or bucket.
+- Additional Considerations:
+
+- Security and Privacy: Outline requirements for ensuring data security and user privacy in handling blockchain data and query processes.
+- Documentation and User Guides: Proposals must include comprehensive documentation and user guides detailing system architecture, API usage, and examples.
+- Testing and Validation: Emphasize the need for thorough testing methodologies, including unit tests, integration tests, and performance benchmarks.
+
+### Challenge Description
+
+Efficient data organization and management are critical components for decentralized storage. This challenge is proposed to incorporate a robust indexing system, drawing inspiration from the efficient tagging mechanism employed by Amazon S3.
+
+In Amazon S3, tags are implemented as simple key-value pairs, where each tag consists of a Key (tag name) and a Value (assigned value). The flexibility allows up to 10 tags per S3 object, providing a versatile approach to metadata organization.[ Amazon S3 Object Tagging Documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-tagging.html)
+
+### Sample Request
+
+The proposal should include examples of query types and expected response formats.
+
+- Retrieve all tags for a specific bucket/object
+
+The following request returns the tag set of the specified object.
+```
+GET /example-object?tagging HTTP/1.1
+
+      Host: examplebucket.xxx
+
+      Date: Thu, 22 Sep 2016 21:33:08 GMT
+
+      Authorization: authorization string
+```
+This example illustrates one usage of GetObjectTagging.
+
+```xml
+ HTTP/1.1 200 OK
+
+      Date: Thu, 22 Sep 2016 21:33:08 GMT
+
+      Connection: close
+
+      Server: AmazonS3
+
+      <?xml version="1.0" encoding="UTF-8"?>
+
+      <Tagging xmlns="http://s3.amazonaws.com/doc/2006-03-01/">
+
+        <TagSet>
+
+         <Tag>
+
+          <Key>tag1</Key>
+
+          <Value>val1</Value>
+
+        </Tag>
+
+        <Tag>
+
+          <Key>tag2</Key>
+
+          <Value>val2</Value>
+
+         </Tag>
+
+       </TagSet>
+
+      </Tagging>
+```
+
+- Querying buckets/objects based on tags.
+
+The following request returns the bucket/object IDs that contain the specified tag
+
+
+```
+GET /object?tag=xxx-xxx HTTP/1.1
+
+      Host: xxx
+
+      Date: Thu, 22 Sep 2016 21:33:08 GMT
+
+      Authorization: authorization string
+```
+
+
+
+Sample Response
+
+This example illustrates one usage of GetObjectByTagging.
+```xml
+  HTTP/1.1 200 OK
+
+      Date: Thu, 22 Sep 2016 21:33:08 GMT
+
+      Connection: close
+
+      Server: AmazonS3
+
+      <?xml version="1.0" encoding="UTF-8"?>
+
+       <ObjectList>
+
+        <Object>
+
+         <ID>test1</ID>
+
+         <ObjectName>vbewrz1</ObjectName>
+
+       </Object>
+
+       <Object>
+
+         <ID>test2</ID>
+
+         <ObjectName>vbewrz2</ObjectName>
+
+       </Object>
+
+      </ObjectList>
+```
+- Offering a GraphQL query method to search for resources based on tags.
+```javascript
+const queryObject = {
+
+	query:
+
+	`{
+
+		objects (
+
+			tags: [
+
+			 {
+
+					name: "Type",
+
+					values: ["manifest"]
+
+				}
+
+			]
+
+		) {
+
+			edges {
+
+				node {
+
+					id
+
+				}
+
+			}
+
+		}
+
+	}`
+
+};
+
+const results = await arweave.api.post('/graphql', queryObject);
+```
