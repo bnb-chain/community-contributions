@@ -2,20 +2,18 @@
 
 Welcome to the BNB Smart Chain (BSC) Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the BSC ecosystem. 
 
-Wishlist Summary:
+| Challenge                                                    | Importance | Status   |
+| ------------------------------------------------------------ | ---------- | -------- |
+| [BNB Smart Chain On-chain Identity](#challenge-bnb-smart-chain-on-chain-identity) | Medium     | Archived |
+| [BNB Smart Chain AI generated content platform](#challenge-bnb-smart-chain-ai-generated-content-platform) | High       | Active   |
+| [[Real World Asset tokenization on BNB Smart Chain](#challenge-real-world-asset-tokenization-on-bnb-smart-chain)](#challenge-accelerating-blockchain-node-synchronization) | High       | Active   |
+| [Advanced DeFi](#challenge-advanced-defi)                    | Medium     | Active   |
+| [Decentralized Social Network](#challenge-decentralized-social-network) | High       | Active   |
+| [Stable Coin Payment for BNB Smart Chain](#challenge-stable-coin-payment-for-bnb-smart-chain) | Medium     | Active   |
+| [ZK-based Data exchange](#challenge-zk-based-data-exchange)  | Low        | Active   |
+| [Intent-based Protocol](#challenge-intent-based-protocol)                                    | Medium     | Active   |
 
-1. [BNB Smart Chain On-chain Identity](#challenge-bnb-smart-chain-on-chain-identity)
-2. [BNB Smart Chain AI generated content platform](#challenge-bnb-smart-chain-ai-generated-content-platform)
-3. [Real World Asset tokenization on BNB Smart Chain](#challenge-real-world-asset-tokenization-on-bnb-smart-chain)
-4. [Advanced DeFi](#challenge-advanced-defi)
-5. [Decentralized Social Network](#challenge-decentralized-social-network)
-6. [Stable Coin Payment for BNB Smart Chain](#challenge-stable-coin-payment-for-bnb-smart-chain)
-7. [ZK-based Data exchange](#challenge-zk-based-data-exchange)
-8. [Intent-based Protocol]()
 
-
-
-Join our community in shaping the future of BSC and pushing the boundaries of decentralized solutions. Together, let's embrace these challenges and unlock the full potential of BNB Smart Chain!
 
 # Challenges
 
@@ -26,6 +24,10 @@ Join our community in shaping the future of BSC and pushing the boundaries of de
 
 1. Improve the ecosystem of identity service on the BSC chain.
 2. Promote the innovative applications based on the identity service.
+
+### Priority 
+
+High, Medium, Low
 
 ### Challenge Description:
 

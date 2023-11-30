@@ -2,19 +2,17 @@
 
 Welcome to the opBNB Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the opBNB ecosystem.
 
-Challenges Summary:
-
-1. [Bridging L2 Networks for Seamless Cross-Chain Activity](#challenge-bridging-l2-networks-for-seamless-cross-chain-activity)
-2. [opBNB Data Availability Layer on Greenfield](#challenge-opbnb-data-availability-layer-on-greenfield)
-3. [Empowering opBNB with Advanced Analytics Support](#challenge-empowering-opbnb-with-advanced-analytics-support)
-4. [Accelerating opBNB Node Synchronization](#challenge-accelerating-opbnb-node-synchronization)
-5. [Long Term Archive Service Support](#challenge-long-term-archive-service-support)
-6. [Fair MEV Infrastructure Enhancement](#challenge-fair-mev-infrastructure-enhancement)
-7. [Alternative clients for opBNB](#challenge-alternative-clients-for-opbnb)
 
 
-
-Join our community in revolutionizing opBNB and driving innovation in the decentralized space. Embrace these challenges to shape the future of opBNB together!
+| Challenge                                                    | Importance | Status     |
+| ------------------------------------------------------------ | ---------- | ---------- |
+| [Bridging L2 Networks for Seamless Cross-Chain Activity](#challenge-bridging-l2-networks-for-seamless-cross-chain-activity) | High       | Fullfilled |
+| [opBNB Data Availability Layer on Greenfield](#challenge-opbnb-data-availability-layer-on-greenfield) | High       | Archived   |
+| [Empowering opBNB with Advanced Analytics Support](#challenge-empowering-opbnb-with-advanced-analytics-support) | High       | Active     |
+| [Accelerating opBNB Node Synchronization](#challenge-accelerating-opbnb-node-synchronization) | Medium     | Archived   |
+| [Long Term Archive Service Support](#challenge-long-term-archive-service-support) | High       | Archived   |
+| [Fair MEV Infrastructure Enhancement](#challenge-fair-mev-infrastructure-enhancement) | High       | Archived   |
+| [Alternative clients for opBNB](#challenge-alternative-clients-for-opbnb) | Medium     | Active     |
 
 # Challenges
 
@@ -24,6 +22,10 @@ Join our community in revolutionizing opBNB and driving innovation in the decent
 1. Develop bridges for direct L2 network connections.
 2. Enable frictionless cross-chain activity for users.
 3. Enhance user experience and L2 network adoption.
+
+### Priority 
+
+High, Medium, Low
 
 ### Challenge Description:
 The challenge focuses on creating innovative solutions to address the 
