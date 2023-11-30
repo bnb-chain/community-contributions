@@ -307,7 +307,6 @@ const queryObject = {
 const results = await arweave.api.post('/graphql', queryObject);
 ```
 
-
 ## Challenge: Developing a High-Performance Multipart Storage Solution on Greenfield
 
 ### Main Objectives/Goals:
