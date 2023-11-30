@@ -2,29 +2,30 @@
 
 Welcome to the BNB Smart Chain (BSC) Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the BSC ecosystem. 
 
-Wishlist Summary:
+| Challenge                                                    | Importance | Status    |
+| ------------------------------------------------------------ | ---------- | --------- |
+| [BNB Smart Chain Consensus Enhancement to encourage fair plan of validators and stabilization of blocks](#challenge-bnb-smart-chain-consensus-enhancement-to-encourage-fair-plan-of-validators-and-stabilization-of-blocks) | Medium     | Archived  |
+| [BNB Chain governance enhancement](#challenge-bnb-chain-governance-enhancement) | Medium     | Active    |
+| [Accelerating Blockchain Node Synchronization](#challenge-accelerating-blockchain-node-synchronization) | Medium     | Archived  |
+| [Long Term Archive Service Support](#challenge-long-term-archive-service-support) | Medium     | Archived  |
+| [Fair MEV Infrastructure Enhancement](#challenge-fair-mev-infrastructure-enhancement) | High       | Fullfiled |
+| [Alternative clients for BNB Smart Chain](#challenge-alternative-clients-for-bnb-smart-chain) | Medium     | Active    |
+| [Privacy Protection Transactions Protect](#challenge-privacy-protection-transactions-protect) | Medium     | Archived  |
+| [Stateless on BSC](#challenge-stateless-on-bsc)              | Medium     | Archived  |
 
-1. [BNB Smart Chain Consensus Enhancement to encourage fair plan of validators and stabilization of blocks](#challenge-bnb-smart-chain-consensus-enhancement-to-encourage-fair-plan-of-validators-and-stabilization-of-blocks)
-2. [BNB Chain governance enhancement](#challenge-bnb-chain-governance-enhancement)
-3. [Accelerating Blockchain Node Synchronization](#challenge-accelerating-blockchain-node-synchronization)
-4. [Long Term Archive Service Support](#challenge-long-term-archive-service-support)
-5. [Fair MEV Infrastructure Enhancement](#challenge-fair-mev-infrastructure-enhancement)
-6. [Alternative clients for BNB Smart Chain](#challenge-alternative-clients-for-bnb-smart-chain)
-7. [Privacy Protection Transactions Protect](#challenge-privacy-protection-transactions-protect)
-8. [Stateless on BSC](#challenge-stateless-on-bsc)
 
-
-
-Join our community in shaping the future of BSC and pushing the boundaries of decentralized solutions. Together, let's embrace these challenges and unlock the full potential of BNB Smart Chain!
 
 # Challenges
 
 ## Challenge: BNB Smart Chain Consensus Enhancement to encourage fair plan of validators and stabilization of blocks
 
-### Main Objectives/Goals:
+### Main Objectives/Goals: 
 
 1. Stabilization of blocks
 2. Increase the fairness of validator play
+
+### Priority 
+High, Medium, Low
 
 ### Challenge Description:
 
@@ -44,6 +45,10 @@ Some possible solutions:
 ### Main Objectives/Goals:
 1. Improve the fairness and transparency of the BNB Chain governance
 2. Improve community engagement
+
+### Priority 
+
+High, Medium, Low
 
 ### Challenge Description:
 One of the main challenges of decentralized platforms is to design a governance framework that ensures fair and effective decision-making by the community. The current voting methodology, based on delegated proof-of-stake (dPoS), has some limitations, such as low voter turnout, centralization of power, and lack of incentives for participation. Therefore, we propose a new voting methodology that aims to address these issues and encourage more community governance involvement and democracy.
@@ -66,6 +71,10 @@ We believe that this new voting methodology will improve the community engagemen
 2. Reduce resources and energy consumption.
 3. Prioritize data integrity and security.
 
+### Priority 
+
+High, Medium, Low
+
 ### Challenge Description:
 
 We are looking for a talented and innovative developer or team to design and implement a method or algorithm that can significantly speed up the synchronization process for new nodes joining the BSC network. The solution should enhance the decentralization and reliability of the network, as well as be compatible with the existing BSC protocol and infrastructure. The proposal should include the following information:
@@ -84,6 +93,10 @@ We are looking for a talented and innovative developer or team to design and imp
 
 1. An incentive mechanism design for archive node maintainers  
 2. A well defined data pruning solution.
+
+### Priority 
+
+High, Medium, Low
 
 ### Challenge Description:
 

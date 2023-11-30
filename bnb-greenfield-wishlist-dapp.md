@@ -2,17 +2,16 @@
 
 Welcome to the BNB Greenfield Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the BNB Greenfield ecosystem. 
 
-Challenges Summary:
-1. [Publishing Platform on BNB Greenfield](#challenge-publishing-platform-on-bnb-greenfield)
-2. [Content Sharing Platform BNB Greenfield](#challenge-content-sharing-platform-bnb-greenfield)
-3. [Knowledge Sharing Platform BNB Greenfield](#challenge-knowledge-sharing-platform-bnb-greenfield)
-4. [Personal Data Marketplace BNB Greenfield](#challenge-personal-data-marketplace-bnb-greenfield)
-5. [Blockchain of Things(BoT) BNB Greenfield](#challenge-blockchain-of-thingsbot-bnb-greenfield)
-6. [Decentralized AI Training - AI Labeling on BNB Greenfield](#challenge-decentralized-ai-training---ai-labeling-on-bnb-greenfield)
-7. [Data Driven API and Services on BNB Greenfield](#challenge-data-driven-api-and-services-on-bnb-greenfield)
-8. [Trustless Notary on BNB Greenfield](#challenge-trustless-notary-on-bnb-greenfield)
-
-Embark on these challenges to contribute to the growth and success of the BNB Greenfield platform! Let's innovate together and shape the future of decentralized solutions.
+| Challenge                                                    | Importance | Status   |
+| ------------------------------------------------------------ | ---------- | -------- |
+| [Publishing Platform on BNB Greenfield ](#challenge-publishing-platform-on-bnb-greenfield) | High       | Active   |
+| [Content Sharing Platform BNB Greenfield](#challenge-content-sharing-platform-bnb-greenfield) | Medium     | Archived |
+| [Knowledge Sharing Platform BNB Greenfield ](#challenge-knowledge-sharing-platform-bnb-greenfield) | Medium     | Active   |
+| [Personal Data Marketplace BNB Greenfield](#challenge-personal-data-marketplace-bnb-greenfield) | Medium     | Archived |
+| [Blockchain of Things(BoT) BNB Greenfield](#challenge-blockchain-of-thingsbot-bnb-greenfield) | Medium     | Active   |
+| [Decentralized AI Training - AI Labeling on BNB Greenfield](#challenge-decentralized-ai-training---ai-labeling-on-bnb-greenfield) | High       | Active   |
+| [Data Driven API and Services on BNB Greenfield](#challenge-data-driven-api-and-services-on-bnb-greenfield) | Medium     | Archived |
+| [Trustless Notary on BNB Greenfield](#challenge-trustless-notary-on-bnb-greenfield) | Medium     | Archived |
 
 # Challenges
 
@@ -22,6 +21,10 @@ Embark on these challenges to contribute to the growth and success of the BNB Gr
 1. Tokenize the content and exchange on the platform
 1. Achieve the data content ownership with blockchain technology
 1. Implement anti-piracy measures
+
+### Priority 
+
+High, Medium, Low
 
 ### Challenge Description
 We are looking for a publishing platform that can leverage the benefits of BNB Greenfield, a decentralized storage network that offers high performance, low cost, and censorship resistance. The platform should allow authors to upload their work to BNB Greenfield and automatically sync it with BNB Smart Chain, where they can sell their work using smart contracts. The platform should also provide anti-piracy measures to protect the intellectual property rights of the authors and prevent unauthorized copying or distribution of their work. The platform should be user-friendly, scalable, and secure. We are interested in proposals that can demonstrate the feasibility, functionality, and innovation of the publishing platform. 

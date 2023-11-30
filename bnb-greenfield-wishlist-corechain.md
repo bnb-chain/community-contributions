@@ -2,14 +2,16 @@
 
 Welcome to the BNB Greenfield Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the BNB Greenfield ecosystem. 
 
-Challenges Summary:
-1. [Leveraging BNB Greenfield for L1 Data Storage](#challenge-leveraging-bnb-greenfield-for-l1-data-storage)
-2. [Self-host Solution for BNB Greenfield Storage Provider](#challenge-self-host-solution-for-bnb-greenfield-storage-provider)
-3. [Empowering Greenfield with Advanced Analytics Support](#challenge-empowering-greenfield-with-advanced-analytics-support)
-4. [Light-weight storage provider](#challenge-light-weight-storage-provider)
-5. [Greenfield CDN](#challenge-greenfield-cdn)
 
-Embark on these challenges to contribute to the growth and success of the BNB Greenfield platform! Let's innovate together and shape the future of decentralized solutions.
+
+| Challenge                                                    | Importance | Status    |
+| ------------------------------------------------------------ | ---------- | --------- |
+| [Leveraging BNB Greenfield for L1 Data Storage](#challenge-leveraging-bnb-greenfield-for-l1-data-storage) | High       | Active    |
+| [Self-host Solution for BNB Greenfield Storage Provider](#challenge-self-host-solution-for-bnb-greenfield-storage-provider) | High       | Archived  |
+| [Empowering Greenfield with Advanced Analytics Support](#challenge-empowering-greenfield-with-advanced-analytics-support) | High       | Active    |
+| [Light-weight storage provider](#challenge-light-weight-storage-provider) | Medium     | Active    |
+| [Greenfield CDN](#challenge-greenfield-cdn)                  | Medium     | Fullfiled |
+| [Greenfield Tagging and Indexing Service](#challenge-greenfield-tagging-and-indexing-service) | High       | Active    |
 
 # Challenges
 
