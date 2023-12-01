@@ -12,6 +12,7 @@ Welcome to the BNB Greenfield Challenge Wishlist! Our community has outlined exc
 | [Light-weight storage provider](#challenge-light-weight-storage-provider) | Medium     | Active    |
 | [Greenfield CDN](#challenge-greenfield-cdn)                  | Medium     | Fullfiled |
 | [Greenfield Tagging and Indexing Service](#challenge-greenfield-tagging-and-indexing-service) | High       | Active    |
+| [High-Performance Multipart Storage Solution on Greenfield](#challenge-developing-a-high-performance-multipart-storage-solution-on-greenfield) | High       | Active    |
 
 # Challenges
 
@@ -23,18 +24,18 @@ Welcome to the BNB Greenfield Challenge Wishlist! Our community has outlined exc
 3. Enable efficient retrieval of dormant or dead data.
 
 ### Challenge Description
-The challenge seeks innovative solutions to optimize L1 data storage using 
-BNB Greenfield's decentralized capabilities. L1 chains often carry vast 
-amounts of historical data, including dormant or inactive content, leading 
+The challenge seeks innovative solutions to optimize L1 data storage using
+BNB Greenfield's decentralized capabilities. L1 chains often carry vast
+amounts of historical data, including dormant or inactive content, leading
 to increased latency.
 
-The challenge aims to reduce this latency and enhance data accessibility 
-by migrating historical data to BNB Greenfield. This solution will enable 
-faster and smoother data retrieval on the EVM-compatible chain, resulting 
+The challenge aims to reduce this latency and enhance data accessibility
+by migrating historical data to BNB Greenfield. This solution will enable
+faster and smoother data retrieval on the EVM-compatible chain, resulting
 in an improved user experience.
 
-Additionally, the proposed solution should allow for efficient retrieval 
-of dormant or dead data whenever required, ensuring valuable information 
+Additionally, the proposed solution should allow for efficient retrieval
+of dormant or dead data whenever required, ensuring valuable information
 remains accessible and not lost over time.
 
 
@@ -68,30 +69,30 @@ Some of the key features we are looking for are:
 
 ### Challenge Description:
 
-The challenge seeks to revolutionize Greenfield by providing comprehensive 
-analytics support, enabling users to gain valuable data insights and 
-enhance the efficiency and effectiveness of their storage network activities. The 
-primary goal is to develop a powerful analytics ecosystem that encompasses 
+The challenge seeks to revolutionize Greenfield by providing comprehensive
+analytics support, enabling users to gain valuable data insights and
+enhance the efficiency and effectiveness of their storage network activities. The
+primary goal is to develop a powerful analytics ecosystem that encompasses
 various essential elements.
 
-The first objective is to design and implement an analytics dashboard that 
-offers users access to useful data insights. This dashboard will serve as 
-a centralized hub for users to explore and visualize different aspects, 
-such as gas costs, security metrics, and potential savings over a longer 
-timeframe. The focus is on creating an intuitive and user-friendly 
-interface that empowers users to make informed decisions based on 
+The first objective is to design and implement an analytics dashboard that
+offers users access to useful data insights. This dashboard will serve as
+a centralized hub for users to explore and visualize different aspects,
+such as gas costs, security metrics, and potential savings over a longer
+timeframe. The focus is on creating an intuitive and user-friendly
+interface that empowers users to make informed decisions based on
 real-time data.
 
-The second aspect of the challenge involves building an open-source block 
-explorer. This explorer should offer users the 
-ability to delve deep into the data, providing them with a comprehensive view of their Greenfield object management transactions and activities. This feature will promote 
+The second aspect of the challenge involves building an open-source block
+explorer. This explorer should offer users the
+ability to delve deep into the data, providing them with a comprehensive view of their Greenfield object management transactions and activities. This feature will promote
 transparency and encourage in-depth research and analysis, leading to novel insights and discoveries.
 
-Moreover, the challenge aims to develop status dashboards that 
-continuously monitor the health of the Greenfield network. These dashboards 
-will provide real-time updates on network performance, identifying 
-potential issues and areas for improvement. By offering network health 
-monitoring tools, users can proactively address challenges and ensure the 
+Moreover, the challenge aims to develop status dashboards that
+continuously monitor the health of the Greenfield network. These dashboards
+will provide real-time updates on network performance, identifying
+potential issues and areas for improvement. By offering network health
+monitoring tools, users can proactively address challenges and ensure the
 smooth operation of their storage network activities.
 
 
@@ -104,26 +105,26 @@ smooth operation of their storage network activities.
 
 ### Challenge Description:
 
-Greenfield aims to allow users and storage provider maintainers to use a light-weighted storage provider that offers a new implementation of storage provider for easy management and setup. By using the light-weight storage provider, Greenfield allows users to create, configure, and manage storage resources with minimal overhead and complexity. 
+Greenfield aims to allow users and storage provider maintainers to use a light-weighted storage provider that offers a new implementation of storage provider for easy management and setup. By using the light-weight storage provider, Greenfield allows users to create, configure, and manage storage resources with minimal overhead and complexity.
 
 Considerations:
 
-1. Greenfield is designed to be scalable, reliable, and secure, while also providing high performance and low latency. 
-2. Greenfield is ideal for applications that need fast and flexible storage solutions, such as web hosting, data analytics, media streaming, and more. 
+1. Greenfield is designed to be scalable, reliable, and secure, while also providing high performance and low latency.
+2. Greenfield is ideal for applications that need fast and flexible storage solutions, such as web hosting, data analytics, media streaming, and more.
 
 
 ## Challenge: Greenfield CDN
 
 ### Main Objectives/Goals:
 
-1. Build CDN with Greenfield 
+1. Build CDN with Greenfield
 2. Decentralize the CDN network
 3. Reduce the latency and bandwidth consumption by delivering data from the nearest storage provider
 
 ### Challenge Description:
 
 A CDN (Content Delivery Network) is a system of distributed servers that deliver web content to users based on their geographic location, the origin of the content, and the content delivery server . A CDN can improve the speed, reliability, and security of web applications by caching static content on edge servers and reducing the load on the origin server.
-Building a CDN with BNB Greenfield would involve using its storage provider module, which is responsible for storing and retrieving data from the BNB Greenfield. 
+Building a CDN with BNB Greenfield would involve using its storage provider module, which is responsible for storing and retrieving data from the BNB Greenfield.
 
 ## Challenge: Greenfield Tagging and Indexing Service
 
@@ -267,41 +268,61 @@ This example illustrates one usage of GetObjectByTagging.
 ```javascript
 const queryObject = {
 
-	query:
+  query:
 
-	`{
+  `{
 
-		objects (
+    objects (
 
-			tags: [
+      tags: [
 
-			 {
+       {
 
-					name: "Type",
+          name: "Type",
 
-					values: ["manifest"]
+          values: ["manifest"]
 
-				}
+        }
 
-			]
+      ]
 
-		) {
+    ) {
 
-			edges {
+      edges {
 
-				node {
+        node {
 
-					id
+          id
 
-				}
+        }
 
-			}
+      }
 
-		}
+    }
 
-	}`
+  }`
 
 };
 
 const results = await arweave.api.post('/graphql', queryObject);
 ```
+
+## Challenge: Developing a High-Performance Multipart Storage Solution on Greenfield
+
+### Main Objectives/Goals:
+
+Greenfield, as a storage chain, traditionally depends on a Primary Storage Provider (SP) for file uploads and downloads. While Greenfield offers robust performance, it's currently constrained by the limitations of a single SP, especially noticeable when managing large files.
+
+Taking inspiration from Amazon S3's Multipart upload feature (detailed [here](https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpuoverview.html)), we envision a similar functionality for Greenfield. Users can split large files into parts, storing or retrieving them via different SPs for parallel processing efficiency. However, Greenfield presents a unique challenge: each user's bucket is linked to a specific Primary SP. Implementing Multipart functionality will require users to manage multiple buckets, each storing different file segments under defined protocols. The retrieval process will involve assembling these parts from various SPs back into the original file.
+
+1. **Define a Client-Side Multipart Specification**: Outline a comprehensive protocol for handling multipart storage on Greenfield, considering the network's existing infrastructure of multiple SPs .
+2. **Develop an Open-Source Multipart SDK**: Create a toolkit that eases the integration process for developers, ensuring a smooth implementation of the Multipart functionality in applications.
+
+
+### Challenge Description:
+
+Our goal is to harness the collective capacity of the Greenfield SP network to expedite data access, particularly for large files. The envisioned Multipart solution should align with these key criteria:
+
+* **User-Friendly API**: The solution's API should be intuitive and straightforward, enabling developers to easily incorporate it into their applications.
+* **Compatibility with Greenfield's Infrastructure**: The Multipart solution should be designed atop Greenfield's existing storage framework, necessitating minimal alterations to the current system.
+* **High Performance and Reliability**: By leveraging multiple SPs, the solution must offer enhanced performance and efficiency. It should also be resilient, capable of managing network transmission errors and maintaining robust operation.
