@@ -5,7 +5,7 @@ Welcome to the BNB Smart Chain (BSC) Challenge Wishlist! Our community has outli
 | Challenge                                                    | Importance | Status |
 | ------------------------------------------------------------ | ---------- | ------ |
 | [BNB Smart Chain AI generated content platform](#challenge-bnb-smart-chain-ai-generated-content-platform) | High       | Active |
-| [[Real World Asset tokenization on BNB Smart Chain](#challenge-real-world-asset-tokenization-on-bnb-smart-chain)] | High       | Active |
+| [Real World Asset tokenization on BNB Smart Chain](#challenge-real-world-asset-tokenization-on-bnb-smart-chain) | High       | Active |
 | [Advanced DeFi](#challenge-advanced-defi)                    | Medium     | Active |
 | [Decentralized Social Network](#challenge-decentralized-social-network) | High       | Active |
 | [Stable Coin Payment for BNB Smart Chain](#challenge-stable-coin-payment-for-bnb-smart-chain) | Medium     | Active |
