@@ -2,41 +2,19 @@
 
 Welcome to the BNB Smart Chain (BSC) Challenge Wishlist! Our community has outlined exciting challenges to foster innovation and enhance the BSC ecosystem. 
 
-| Challenge                                                    | Importance | Status   |
-| ------------------------------------------------------------ | ---------- | -------- |
-| [BNB Smart Chain On-chain Identity](#challenge-bnb-smart-chain-on-chain-identity) | Medium     | Archived |
-| [BNB Smart Chain AI generated content platform](#challenge-bnb-smart-chain-ai-generated-content-platform) | High       | Active   |
-| [[Real World Asset tokenization on BNB Smart Chain](#challenge-real-world-asset-tokenization-on-bnb-smart-chain)](#challenge-accelerating-blockchain-node-synchronization) | High       | Active   |
-| [Advanced DeFi](#challenge-advanced-defi)                    | Medium     | Active   |
-| [Decentralized Social Network](#challenge-decentralized-social-network) | High       | Active   |
-| [Stable Coin Payment for BNB Smart Chain](#challenge-stable-coin-payment-for-bnb-smart-chain) | Medium     | Active   |
-| [ZK-based Data exchange](#challenge-zk-based-data-exchange)  | Low        | Active   |
-| [Intent-based Protocol](#challenge-intent-based-protocol)                                    | Medium     | Active   |
+| Challenge                                                    | Importance | Status |
+| ------------------------------------------------------------ | ---------- | ------ |
+| [BNB Smart Chain AI generated content platform](#challenge-bnb-smart-chain-ai-generated-content-platform) | High       | Active |
+| [[Real World Asset tokenization on BNB Smart Chain](#challenge-real-world-asset-tokenization-on-bnb-smart-chain)](#challenge-accelerating-blockchain-node-synchronization) | High       | Active |
+| [Advanced DeFi](#challenge-advanced-defi)                    | Medium     | Active |
+| [Decentralized Social Network](#challenge-decentralized-social-network) | High       | Active |
+| [Stable Coin Payment for BNB Smart Chain](#challenge-stable-coin-payment-for-bnb-smart-chain) | Medium     | Active |
+| [ZK-based Data exchange](#challenge-zk-based-data-exchange)  | Low        | Active |
+| [Intent-based Protocol](#challenge-intent-based-protocol)    | Medium     | Active |
 
 
 
 # Challenges
-
-
-## Challenge: BNB Smart Chain On-chain Identity
-
-### Main Objectives/Goals:
-
-1. Improve the ecosystem of identity service on the BSC chain.
-2. Promote the innovative applications based on the identity service.
-
-### Priority 
-
-High, Medium, Low
-
-### Challenge Description:
-
-We are looking for a proposal of a on-chain identity service for BNB Smart Chain that can provide a secure, decentralized and user-friendly way of managing digital identities on the blockchain. The service should allow users to create, verify and manage their own identities, as well as to interact with other users and applications that require identity verification. The service should also support features such as identity recovery, revocation, delegation and attestation. The proposal should include the following aspects:
-
-- The design and architecture of the on-chain identity service, including the smart contracts, data structures, protocols and interfaces involved.
-- The economic model and incentive mechanism of the on-chain identity service, including the fees, rewards and governance mechanisms for the users, validators and service providers.
-- The security analysis and risk assessment of the on-chain identity service, including the potential threats, vulnerabilities and countermeasures.
-- The user experience and usability evaluation of the on-chain identity service, including the user interface, user journey and user feedback.
 
 
 

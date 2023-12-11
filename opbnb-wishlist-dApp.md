@@ -4,14 +4,12 @@ Welcome to the opBNB Challenge Wishlist! Our community has outlined exciting cha
 
 
 
-| Challenge                                                    | Importance | Status     |
-| ------------------------------------------------------------ | ---------- | ---------- |
-| [ZK-based Data exchange](#challenge-zk-based-data-exchange)  | Medium     | Active     |
-| [opBNB On-chain Identity](#challenge-opbnb-on-chain-identity) | Medium     | Active     |
-| [opBNB On-chain Game](#challenge-opbnb-on-chain-game)        | High       | Active     |
-| [Decentralized Social Network](#challenge-decentralized-social-network) | High       | Active     |
-| [Perp Dex on opBNB](#challenge-perp-dex-on-opbnb)            | Medium     | Fullfilled |
-| [Stable Coin Payment for opBNB](#challenge-stable-coin-payment-for-opbnb) | Medium     | Archived   |
+| Challenge                                                    | Importance | Status |
+| ------------------------------------------------------------ | ---------- | ------ |
+| [ZK-based Data exchange](#challenge-zk-based-data-exchange)  | Medium     | Active |
+| [opBNB On-chain Identity](#challenge-opbnb-on-chain-identity) | Medium     | Active |
+| [opBNB On-chain Game](#challenge-opbnb-on-chain-game)        | High       | Active |
+| [Decentralized Social Network](#challenge-decentralized-social-network) | High       | Active |
 
 # Challenges
 
@@ -88,38 +86,3 @@ By applying for the opBNB wish list item call for proposal, you will have the op
 We are looking for a team of developers who can create a decentralized social network for the BNB Smart Chain ecosystem. The network should be a crypto native platform that supports various social features such as messaging, live streaming, and content sharing. The network should also leverage the power of smart contracts, social assets, and product functions on opBNB to enable new ways of monetization for content creators and users. The network should store its social data on Greenfield, a decentralized storage solution that ensures data sovereignty and privacy. The network should aim to eliminate the need for intermediaries and provide a better value proposition for its participants. 
 
 
-
-## Challenge: Perp Dex on opBNB 
-
-### Main Objectives/Goals:
-
-1. Native Support Perp Dex on opBNB
-
-### Challenge Description:
-
-We are looking for a team of developers who can create a perp dex on opBNB, a decentralized exchange platform that supports perpetual contracts. A perp dex is a type of derivative market that allows traders to speculate on the price movements of various assets without owning them. Perp dexes have several advantages over traditional spot and futures markets, such as lower entry barriers, higher transaction speeds, and more supported assets.
-
-The goal of this project is to build a native perp dex on opBNB that leverages the benefits of the opBNB network, such as high speed and low gas fees. The perp dex should also offer opBNB assets a place to get leveraged exposure and hedge their risks. The perp dex should have the following features:
-
-- Support multiple opBNB assets.
-
-- Provide a user-friendly interface and a robust order book system
-
-- Implement a fair and transparent liquidation mechanism
-
-- Integrate with existing opBNB protocols and services.
-
-- Ensure security and scalability of the perp dex smart contracts
-
-  
-
-## Challenge: Stable Coin Payment for opBNB
-
-### Main Objectives/Goals:
-
-1. Easy to use stable coin payment system
-2. High efficiency payment with low cost, especially for cross-board payment
-
-### Challenge Description:
-
-We are looking for proposals of stable coin payment solutions that leverage the opBNB as the underlying infrastructure. The solutions should aim to provide a seamless, secure and efficient way of using stable coins for various online or offline consumption scenarios, such as e-commerce, gaming, remittance, etc. The solutions should also be easy to use and open to all users, regardless of their location, identity or financial status. The solutions should take advantage of the high performance and low cost of the opBNB, especially for cross-border payment transactions. The solutions should demonstrate how they can integrate with existing stable coin projects/wallets or create new ones that are compatible with the opBNB standards and protocols.
