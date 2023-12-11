@@ -4,15 +4,13 @@ Welcome to the BNB Greenfield Challenge Wishlist! Our community has outlined exc
 
 
 
-| Challenge                                                    | Importance | Status    |
-| ------------------------------------------------------------ | ---------- | --------- |
-| [Leveraging BNB Greenfield for L1 Data Storage](#challenge-leveraging-bnb-greenfield-for-l1-data-storage) | High       | Active    |
-| [Self-host Solution for BNB Greenfield Storage Provider](#challenge-self-host-solution-for-bnb-greenfield-storage-provider) | High       | Archived  |
-| [Empowering Greenfield with Advanced Analytics Support](#challenge-empowering-greenfield-with-advanced-analytics-support) | High       | Active    |
-| [Light-weight storage provider](#challenge-light-weight-storage-provider) | Medium     | Active    |
-| [Greenfield CDN](#challenge-greenfield-cdn)                  | Medium     | Fullfiled |
-| [Greenfield Tagging and Indexing Service](#challenge-greenfield-tagging-and-indexing-service) | High       | Active    |
-| [High-Performance Multipart Storage Solution on Greenfield](#challenge-developing-a-high-performance-multipart-storage-solution-on-greenfield) | High       | Active    |
+| Challenge                                                    | Importance | Status |
+| ------------------------------------------------------------ | ---------- | ------ |
+| [Leveraging BNB Greenfield for L1 Data Storage](#challenge-leveraging-bnb-greenfield-for-l1-data-storage) | High       | Active |
+| [Empowering Greenfield with Advanced Analytics Support](#challenge-empowering-greenfield-with-advanced-analytics-support) | High       | Active |
+| [Light-weight storage provider](#challenge-light-weight-storage-provider) | Medium     | Active |
+| [Greenfield Tagging and Indexing Service](#challenge-greenfield-tagging-and-indexing-service) | High       | Active |
+| [High-Performance Multipart Storage Solution on Greenfield](#challenge-developing-a-high-performance-multipart-storage-solution-on-greenfield) | High       | Active |
 
 # Challenges
 
@@ -37,27 +35,6 @@ in an improved user experience.
 Additionally, the proposed solution should allow for efficient retrieval
 of dormant or dead data whenever required, ensuring valuable information
 remains accessible and not lost over time.
-
-
-
-## Challenge: Self-host Solution for BNB Greenfield Storage Provider
-
-### Main Objectives/Goals
-
-1. Develop sustainable self-host solution for sp of BNB Greenfield
-
-### Challenge Description
-
-We are looking for a self-host storage provider for our BNB Greenfield project, which aims to create a sustainable and innovative platform for short-term rentals. We want to avoid relying on cloud vendors and have more control over our data and infrastructure. We are interested in proposals that can offer us a scalable, secure, and cost-effective solution that meets our business and technical requirements.
-
-Some of the key features we are looking for are:
-
-- High availability and reliability: The storage provider should ensure that our data is always accessible and protected from failures, disasters, or malicious attacks.
-- Performance and efficiency: The storage provider should deliver fast and consistent performance for our data-intensive applications and optimize the use of resources and energy.
-- Flexibility and compatibility: The storage provider should support various types of data (structured, unstructured, binary, etc.) and integrate well with our existing systems and tools.
-- Compliance and governance: The storage provider should comply with the relevant laws and regulations regarding data privacy, security, and sovereignty, and provide us with the necessary audit and reporting capabilities.
-
-
 
 ## Challenge: Empowering Greenfield with Advanced Analytics Support
 
@@ -111,20 +88,6 @@ Considerations:
 
 1. Greenfield is designed to be scalable, reliable, and secure, while also providing high performance and low latency.
 2. Greenfield is ideal for applications that need fast and flexible storage solutions, such as web hosting, data analytics, media streaming, and more.
-
-
-## Challenge: Greenfield CDN
-
-### Main Objectives/Goals:
-
-1. Build CDN with Greenfield
-2. Decentralize the CDN network
-3. Reduce the latency and bandwidth consumption by delivering data from the nearest storage provider
-
-### Challenge Description:
-
-A CDN (Content Delivery Network) is a system of distributed servers that deliver web content to users based on their geographic location, the origin of the content, and the content delivery server . A CDN can improve the speed, reliability, and security of web applications by caching static content on edge servers and reducing the load on the origin server.
-Building a CDN with BNB Greenfield would involve using its storage provider module, which is responsible for storing and retrieving data from the BNB Greenfield.
 
 ## Challenge: Greenfield Tagging and Indexing Service
 
