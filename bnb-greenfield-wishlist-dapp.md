@@ -11,6 +11,38 @@ Welcome to the BNB Greenfield Challenge Wishlist! Our community has outlined exc
 
 # Challenges
 
+
+## Challenge: Adapt Greenfield to Python Machine Learning & Data Pipelines
+
+### Main Objectives/Goals
+
+The main goal of this task is to enable machine learning researchers/developers to interact with the Greenfield ecosystem without leaving the comfort of python and jupyter notebook.
+
+### Challenge Description
+
+![](./process.png)
+As shown in the diagram above, In the popular pipeline of machine learning, Jupyter Notebook allows developers to see the code results in-line without depending on other parts of the code. In Jupyter Notebook, every cell of the code can be viewed at any time to come up with a result. [Fsspec](https://filesystem-spec.readthedocs.io/en/latest/) is commonly used in Jupyter Notebook, as the process of machine learning is data intensive and developers may need to access datasets from different sources.
+
+An readonly implementation of [Fsspec](https://filesystem-spec.readthedocs.io/en/latest/) for Greenfield will provide a read-only pythonic interface to Greenfield storage network public files. With this new library, you can get files from Greenfield. It will help users quickly retrieve files with url.
+A simple download data example would look like:
+
+```python
+import gnfsspec
+
+with gnfsspec.open("https://greenfield-sp.bnbchain.org/view/bucketname/filename", "r") as f:
+    print(f.read())
+```
+
+
+### What should you consider when building this library?
+* Performance: how to achieve fast retrieval
+* How to integrate [Resumable Download feature](https://docs.bnbchain.org/greenfield-docs/docs/tutorials/dapp/resumable-upload/overview ) of Greenfield
+* Prepare Documentation and Demos
+* Source code for all of the above
+
+
+
+
 ## Challenge: Publishing Platform on BNB Greenfield
 
 ### Main Objectives/Goals
