@@ -4,6 +4,7 @@ Welcome to the BNB Greenfield Challenge Wishlist! Our community has outlined exc
 
 | Challenge                                                    | Importance | Status |
 | ------------------------------------------------------------ | ---------- | ------ |
+| [Adapt Greenfield to Python Machine Learning Pipelines ](##challenge-adapt-greenfield-to-python-machine-learning-pipelines) | High       | Active |
 | [Publishing Platform on BNB Greenfield ](#challenge-publishing-platform-on-bnb-greenfield) | High       | Active |
 | [Knowledge Sharing Platform BNB Greenfield ](#challenge-knowledge-sharing-platform-bnb-greenfield) | Medium     | Active |
 | [Blockchain of Things(BoT) BNB Greenfield](#challenge-blockchain-of-thingsbot-bnb-greenfield) | Medium     | Active |
@@ -12,7 +13,7 @@ Welcome to the BNB Greenfield Challenge Wishlist! Our community has outlined exc
 # Challenges
 
 
-## Challenge: Adapt Greenfield to Python Machine Learning & Data Pipelines
+## Challenge: Adapt Greenfield to Python Machine Learning Pipelines
 
 ### Main Objectives/Goals
 
