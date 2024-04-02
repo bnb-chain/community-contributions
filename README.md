@@ -12,7 +12,6 @@ demanding and innovative areas.
 Be part of the innovation revolution. Submit your ideas on [grants page](https://www.bnbchain.org/en/developers/developer-programs/builder-grant) and/or [forum](https://forum.bnbchain.org/t/join-bnb-chain-and-help-shape-the-future-of-web3-wishlist-of-bnb-chain/2067). let your brilliance shine on the BNB Chain stage! 🚀🌟
 
 ## Contribution Categories
-- [BSC core chain wishlist](/bsc-wishlist-corechain.md)
 - [BSC dapp wishlist](/bsc-wishlist-dapp.md)
 - [opBNB core chain wishlist](/opbnb-wishlist-corechain.md)
 - [opBNB dapp wishlist](/opbnb-wishlist-dApp.md)
