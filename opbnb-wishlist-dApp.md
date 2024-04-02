@@ -10,7 +10,6 @@ Welcome to the opBNB Challenge Wishlist! Our community has outlined exciting cha
 | [Creating a Streamlined dApp Development SDK on BNB Chain](#challenge-creating-a-streamlined-dapp-development-sdk-on-bnb-chain) | High | Active |
 | [FOC Game Core Stack](#challenge-foc-game-core-stack) | High | Active |
 | [Seamless Web2 to Web3 Game Evolution](#challenge-seamless-web2-to-web3-game-evolution) | High | Active |
-| [Reimagining the Future of Decentralized Video](#challenge-reimagining-the-future-of-decentralized-video) | High | Active |
 
 # Challenges
 
@@ -77,21 +76,3 @@ The goal is to bridge the extensive talent pool of Web2 game developers into the
 * **Web3 Identity and Communication:** Utilize decentralized IDs for matchmaking and in-game communication, fostering secure peer-to-peer interaction.
 * **Decentralized Data Storage:**  Implement decentralized storage solutions for player data and game assets, ensuring longevity and enhancing immutability.
 
-## Challenge: Reimagining the Future of Decentralized Video
-
-### Main Objectives
-
-1. **Resilient Content Storage and Streaming:** Develop decentralized storage solutions and streaming protocols that ensure smooth video playback, high availability, and resistance to censorship.
-2. **Enhanced Social Features:** Design intuitive social elements (commenting, reactions, decentralized discovery) that foster a vibrant community around video content.
-3. **Monetization and Rewards:** Establish fair and transparent monetization models for creators, viewers, and platform participants (including potential tokenization and revenue sharing).
-
-### Challenge Description
-
-We seek proposals for groundbreaking decentralized video platforms that challenge centralized models by prioritizing user control, community engagement, and novel content experiences with opBNB and BNBChain.  The ideal platform will:
-
-* **Content Sovereignty:** Safeguard ownership and control of videos for creators, allowing them to determine distribution and access rights.
-* **Accessibility and Performance:**  Ensure efficient content delivery, smooth playback, and low-latency streaming, even as the network scales. 
-* **Algorithmic Curation vs. Censorship:**  Balance content discovery mechanisms with the protection of user privacy and combatting abuse or spam.
-* **Emerging Content Experiences:** Encourage  experimentation with formats like interactive videos, VR integration, or decentralized video editing tools.
-
-The ultimate goal is to create a decentralized video ecosystem that empowers creators, fosters a thriving community, and unlocks a new era of creativity and engagement.

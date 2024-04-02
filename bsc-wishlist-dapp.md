@@ -12,7 +12,10 @@ Welcome to the BNB Smart Chain (BSC) Challenge Wishlist! Our community has outli
 | [Points trading system on BNB Chain](#challenge-points-trading-system-on-bnb-chain) | Medium | Active |
 | [Pre-launch Market with Secure, Efficient Pre-TGE Trading](#challenge-pre-launch-market-with-secure-efficient-pre-tgetoken-generation-event-trading) | Medium | Active |
 | [The Next Generation of Yield Aggregation of BNBChain](#challenge-the-next-generation-of-yield-aggregation-of-bnbchain) | High | Active |
-| [Challenge: Synthetic Stablecoins for BSC](#challenge-synthetic-stablecoins-for-bsc) | High | Active|
+| [Synthetic Stablecoins for BSC](#challenge-synthetic-stablecoins-for-bsc) | High | Active|
+| [Build a Social Graph Middleware For DeSoc Apps](#challenge-build-a-social-graph-middleware-for-desoc-apps) | High | Active |
+| [Build a Video Streaming Middleware For DeSoc Apps](#challenge-build-a-video-streaming-middleware-for-desoc-apps) | High | Active |
+| [Build a Data Analytic Platform For DeSoc Apps](#challenge-build-a-data-analytic-platform-for-desoc-apps) | High | Active |
 
 
 # Challenges
@@ -159,5 +162,53 @@ We seek proposals for synthetic stablecoin systems that address the vulnerabilit
 **Composability:** Seamless integration with other DeFi protocols, expanding the utility and adoption of synthetic stablecoins.
 
 The ideal synthetic stablecoin protocol will offer a significant improvement in reliability and robustness, instilling confidence in the broader DeFi ecosystem and paving the way for wider use cases.
+
+
+
+## Challenge: Build a Social Graph Middleware For DeSoc Apps  
+### Main Objectives/Goals
+The main objective of this challenge focuses on building a groundbreaking social graph solution for SocialFi applications. Here are the main objectives:  
+**Transparency and Interoperability:** Design protocols and tools that ensure transparency and interoperability between SocialFi applications, enabling seamless transfer of social connections and data across different platforms.
+### Challenge Description
+As the Web3 revolution continues to reshape the digital landscape, the emergence of SocialFi represents a pivotal moment where social media and decentralized financial systems intersect.
+SocialFi aims to monetize and tokenize social interactions, offering users unprecedented control over their data and relationships. 
+A social graph maps the relationships and interactions among users on a platform. It represents how individuals are connected through friendships, follows, likes, shares, or comments and can be used to analyze social dynamics, tailor user experiences, or target advertisements.
+Participants will leverage decentralized technologies and principles to design solutions that prioritize transparency, interoperability, and user autonomy. These solutions will enable seamless transfer of social connections and data across different SocialFi applications, reducing reliance on centralized platforms and enhancing user privacy and security.
+
+## Challenge: Build a Video Streaming Middleware For DeSoc Apps  
+### Main Objectives/Goals
+To construct a decentralized data broadcasting network on the BNB Chain that focuses on scaling video data transfer through a peer-to-peer (P2P) network, 
+**Decentralized Video Data Distribution:** Create a robust system that allows for efficient, decentralized distribution of video content, minimizing reliance on centralized servers and reducing single points of failure.
+**Scalability:** Ensure the network can handle significant loads, supporting the transfer of high-quality video content without degradation in performance as the number of users grows.
+**Efficiency and Speed:** Optimize data transfer protocols to ensure high-speed video streaming and downloading, comparable to or better than current centralized systems.
+**Security and Privacy:** Implement robust security measures to protect the network and its users from malicious attacks and unauthorized access,
+**User Incentivization:** Develop a tokenomics or incentivization model that rewards users for contributing resources (such as bandwidth and storage) to the network, encouraging participation and growth.
+**Interoperability:** Design the system to be compatible with existing blockchain ecosystems and standards, facilitating easy integration with other applications and services on the BNB Chain.
+### Challenge Description
+This wishlist is a guide for developers creating a decentralized data broadcasting network for video content on the BNB Chain. It addresses critical goals and challenges for platform success and adoption.
+**Network Latency and Bandwidth Optimization:** Achieving low-latency, high-bandwidth video streaming over a decentralized network is challenging, especially under varying network conditions and with nodes having different bandwidth capacities.
+**Data Integrity and Availability:** Ensuring that video data remains uncorrupted and available at all times, even as it is stored, replicated, and transferred across numerous nodes in the network. All data will be persisted in Greenfield eventually. 
+**Resource Management:** Efficiently managing the resources of participating nodes (storage, bandwidth) to optimize network performance without overburdening individual participants.
+**Economic Model Development:** Creating a sustainable economic model that incentivizes participation while ensuring the network remains cost-effective for users and competitive with traditional centralized services.
+
+
+## Challenge: Build a Data Analytic Platform For DeSoc Apps  
+### Main Objectives/Goals
+To establish a data analytical platform on BNB Chain, aiming at enabling developers to utilize index subgraphs, transform data, and perform queries using both GraphQL and SQL
+**Robust Data Indexing:** Develop a powerful indexing solution that can process and categorize BNB Greenfield data, making it easily accessible for analysis.
+**Flexible Querying:** Implement support for both GraphQL and SQL, offering developers the flexibility to query data in a way that suits their needs best, whether they prioritize the hierarchical structure of GraphQL or the relational approach of SQL.
+**Data Transformation Tools:** Provide developers with tools to effectively transform data into usable formats for analysis, visualization, and integration into other applications.
+**High-Performance Analytics:** Ensure the platform can handle complex queries and deliver insights quickly, enabling real-time analytics on blockchain data.
+User-Friendly Interface: Develop an intuitive interface that allows developers of all skill levels to access and manipulate data easily.
+### Challenge Description
+The following description addresses a comprehensive framework for developing a data analytical platform on BNB Greenfield. This initiative would significantly enhance the capabilities of developers working within the BNB Chain ecosystem, fostering innovation and enabling more informed decision-making based on blockchain data.
+**Data Volume and Complexity:** Managing and indexing the sheer volume of BNB Greenfield data in a way that is efficient and scalable presents a significant challenge, especially given the complex nature of blockchain transactions.
+**Query Performance:** Ensuring that both GraphQL and SQL queries are executed efficiently, particularly for complex or large-scale queries, requires advanced optimization techniques.
+**Data Consistency:** Maintaining data consistency in a decentralized environment, especially when dealing with updates or forks in the blockchain, is crucial for accurate analysis.
+**Usability:** Balancing the complexity of blockchain data with the need for a user-friendly interface that can accommodate developers with varying levels of expertise.
+**Security:** Protecting the platform from potential security threats, including unauthorized access to sensitive data and ensuring that the integrity of data is preserved during analysis.
+**Scalability:** The platform must be scalable to accommodate growing data volumes and an increasing number of users without degradation in performance.
+
+
 
 
