@@ -4,7 +4,7 @@ Welcome to the BNBChain Challenge Wishlist! Our community has outlined exciting 
 
 | Challenge                                                    | Importance | Status |
 | ------------------------------------------------------------ | ---------- | ------ |
-| [BNB Chain AI generated content platform](#challenge-bnb-chain-ai-generated-content-platform) | High       | Active |
+| [BNB Chain AI generated content platform](#challenge-bnb-chain-ai-generated-content-platform) | Medium       | Active |
 | [Real World Asset tokenization on BNB Chain](#challenge-real-world-asset-tokenization-on-bnb-chain) | High       | Active |
 | [Decentralized Social Network](#challenge-decentralized-social-network) | High       | Active |
 | [Innovative Telegram Trading Bot for the Modern Trader](#challenge-innovative-telegram-trading-bot-for-the-modern-trader) | Medium | Active |
@@ -15,9 +15,11 @@ Welcome to the BNBChain Challenge Wishlist! Our community has outlined exciting 
 | [Build a Social Graph Middleware For DeSoc Apps](#challenge-build-a-social-graph-middleware-for-desoc-apps) | High | Active |
 | [Build a Video Streaming Middleware For DeSoc Apps](#challenge-build-a-video-streaming-middleware-for-desoc-apps) | High | Active |
 | [Build a Data Analytic Platform For DeSoc Apps](#challenge-build-a-data-analytic-platform-for-desoc-apps) | High | Active |
-| [Creating a Streamlined dApp Development SDK on BNB Chain](#challenge-creating-a-streamlined-dapp-development-sdk-on-bnb-chain) | High | Active |
+| [Creating a Streamlined dApp Development SDK on BNB Chain](#challenge-creating-a-streamlined-dapp-development-sdk-on-bnb-chain) | Medium | Active |
 | [Blockchain of Things(BoT) BNB Greenfield](#challenge-blockchain-of-thingsbot-bnb-greenfield) | Medium     | Active |
-| [Middleware Service for Dynamic NFT Image Content Updates](#challenge-middleware-service-for-dynamic-nft-image-content-updates) | High | Active |
+| [Middleware Service for Dynamic NFT Image Content Updates](#challenge-middleware-service-for-dynamic-nft-image-content-updates) | Medium | Active |
+| [Comprehensive L2 Monitoring and Insights for BNB Chain](#challenge-comprehensive-l2-monitoring-and-insights-for-bnb-chain) | High | Active |
+| [Shedding Light on BNB Chain MEV Activity](#challenge-shedding-light-on-bnb-chain-mev-activity) | High | Active |
 
 # Challenges
 
@@ -91,7 +93,7 @@ We are seeking proposals for a Telegram-centric trading bot aiming to revolution
 
 ### Challenge Description
 
-We seek a comprehensive points trading market that seamlessly integrates with a broader platform within BNBChain.  Key considerations include:
+We seek a comprehensive points trading market that seamlessly integrates with a broader platform within BNB Chain.  Key considerations include:
 
 **Intriguing Exchange:** Design an intuitive marketplace where users can trade their earned points.
 **Transparency and Fairness:** Ensure clear communication around how points are earned, their value proposition, and any limitations on their use.
@@ -244,4 +246,51 @@ In blockchain games, enhancing player engagement often hinges on visually repres
 2. Provide an interface for authorized admins to trigger image updates, ensuring control and oversight of the process.
 3. Integrate with game logic to detect changes in NFT attributes (e.g., level-ups) and automatically initiate image updates through the middleware.
 4. Offer a developer-friendly SDK for easy integration of the middleware with the BNB Greenfield storage solution.
+
+
+## Challenge: Comprehensive L2 Monitoring and Insights for BNB Chain 
+
+### Main Objectives/Goals
+
+1. **L2 Ecosystem Overview:** Provide a high-level dashboard showcasing aggregated data and key metrics across various L2 solutions integrated with BNB Chain.
+2. **Chain-Specific Deep Dives:** Offer drill-down capabilities into individual L2s, focusing on metrics such as total value locked (TVL), transaction volume, unique active addresses, and popular dApps.
+3. **Comparative Analytics:** Facilitate comparisons between different L2 solutions in terms of performance, fees, scalability, and security features.
+
+### Challenge Description
+The exponential growth of Layer 2 (L2) solutions on the BNB Chain creates a need for a comprehensive dashboard that offers a lucid and informative view of this expanding landscape.  The ideal L2 dashboard will cater to various types of users:
+
+**Developers:**  Provide data to aid in selecting the optimal L2 solution for new dApps based on use cases and target audience.
+**Investors:**  Offer insights into L2 adoption, TVL trends, and emerging L2 projects, helping guide investment decisions.
+**BNB Chain Enthusiasts:**  Serve as a hub for monitoring the overall health and growth of BNB Chain's L2  ecosystem.
+
+**Key Considerations**
+
+**Data Sources:** Integrate reliable data feeds from L2 explorers, blockchains, and reputable analytics platforms.
+**Usability:** Design a visually appealing and intuitive interface, catering to both technical and less technical audiences. 
+**Real-time Updates:** Provide near real-time updates on key metrics to reflect the rapidly changing L2 landscape.
+**Educational Component:** Include resources and explanations to promote  understanding of various L2 technologies and their implications.
+
+
+## Challenge: Shedding Light on BNB Chain MEV Activity
+### Main Objectives/Goals:
+1. **Quantifying MEV:**  Estimate the real-time and historical volume of Maximal Extractable Value (MEV) occurring on the BNB Chain.
+2. **MEV Source Identification:** Categorize MEV activity by common strategies such as arbitrage, liquidations, sandwich attacks, etc.
+3. **Searcher and Validator Insights:** Track MEV extraction by specific searchers or validators. Provide insights on their success rates and preferred strategies.
+4. **Network Impact Assessment:** Analyze how MEV activity potentially influences metrics like transaction fees, gas prices, and network congestion.
+
+### Challenge Description:
+
+We seek a comprehensive MEV dashboard that helps bring transparency to the BNB Chain's MEV landscape. The ideal dashboard will:
+
+* **Inform BNB Chain Users:** Help traders and dApp users  understand how their transactions might be influenced by MEV extraction.
+* **Empower Researchers:** Provide data for analyzing MEV trends, strategies, and their evolution on the BNB Chain.
+* **Promote Accountability:** Monitor potential MEV abuse scenarios, such as validators prioritizing their own MEV transactions.
+* **Facilitate MEV Mitigation:** Contribute to the development of solutions or strategies to reduce the negative impact of MEV on regular users.
+
+**Key Considerations**
+
+* **Data Accuracy:**  Develop robust methodologies to accurately track and categorize MEV activity in conjunction with on-chain data analysis.
+* **Visualization:** Present complex MEV data in digestible formats, potentially with charts and graphs. 
+* **Accessibility:** Design the dashboard to be usable by both technical and general members of the BNB Chain community.
+* **Education:** Incorporate explanations of different MEV types and their potential consequences for users.
 
