@@ -7,7 +7,6 @@ Welcome to the opBNB Challenge Wishlist! Our community has outlined exciting cha
 | Challenge                                                    | Importance | Status |
 | ------------------------------------------------------------ | ---------- | ------ |
 | [Empowering opBNB with Advanced Analytics Support](#challenge-empowering-opbnb-with-advanced-analytics-support) | High       | Active |
-| [Alternative clients for opBNB](#challenge-alternative-clients-for-opbnb) | Medium     | Active |
 
 # Challenges
 
@@ -48,22 +47,4 @@ will provide real-time updates on network performance, identifying
 potential issues and areas for improvement. By offering network health 
 monitoring tools, users can proactively address challenges and ensure the 
 smooth operation of their L2 activities.
-
-## Challenge: Alternative clients for opBNB
-
-### Main Objectives/Goals:
-
-1. Client decentralization.
-2. High performance client of opBNB for community to maintain.
-3. Multiprogramming language friendly.
-
-### Challenge Description:
-
-We are looking for blockchain developers who are interested in developing and maintaining alternative opBNB clients. opBNB is a fast and low cost L2 blockchain platform that supports smart contracts and decentralized applications. However, opBNB currently relies on few implementations of its protocol, which poses a risk to its security and resilience. We believe that having multiple implementations of the opBNB protocol will increase the decentralization and diversity of the opBNB network, and foster innovation and collaboration among the BNB Chain community.
-
-Key considerations:
-
-1. It is a high performance client implementation that can support the big block size of opBNB.
-
-2. Fast synchronization with the opBNB network.
 
