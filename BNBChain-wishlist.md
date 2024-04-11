@@ -7,7 +7,7 @@ Welcome to the BNBChain Challenge Wishlist! Our community has outlined exciting 
 | [BNB Chain AI generated content platform](#challenge-bnb-chain-ai-generated-content-platform) | Medium       | Active |
 | [Real World Asset tokenization on BNB Chain](#challenge-real-world-asset-tokenization-on-bnb-chain) | High       | Active |
 | [Decentralized Social Network](#challenge-decentralized-social-network) | High       | Active |
-| [Innovative Telegram Trading Bot for the Modern Trader](#challenge-innovative-telegram-trading-bot-for-the-modern-trader) | Medium | Active |
+| [Innovative Telegram Trading Bot for the Modern Trader](#challenge-innovative-telegram-trading-bot-for-the-modern-trader) | High | Active |
 | [Points trading system on BNB Chain](#challenge-points-trading-system-on-bnb-chain) | Medium | Active |
 | [Pre-launch Market with Secure, Efficient Pre-TGE Trading](#challenge-pre-launch-market-with-secure-efficient-pre-tgetoken-generation-event-trading) | Medium | Active |
 | [The Next Generation of Yield Aggregation of BNBChain](#challenge-the-next-generation-of-yield-aggregation-of-bnbchain) | High | Active |
