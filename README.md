@@ -12,7 +12,7 @@ Be part of the innovation revolution. Submit your ideas on [grants page](https:/
 ## Contribution Categories
 - [BNBChain wishlist](/BNBChain-wishlist.md)
 
-## Challenge Importantance Definition
+## Challenge Importance Definition
 
 The importance of challenges can be succinctly defined as *High*, *Medium*, and *Low* by several key factors:
 
