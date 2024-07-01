@@ -9,8 +9,6 @@ The BNB Chain Wishlist offers a repository to nurture visionary endeavors and ma
 
 Be part of the innovation revolution. Submit your ideas on [grants page](https://www.bnbchain.org/en/developers/developer-programs/builder-grant) and/or [forum](https://forum.bnbchain.org/t/join-bnb-chain-and-help-shape-the-future-of-web3-wishlist-of-bnb-chain/2067). let your brilliance shine on the BNB Chain stage! 🚀🌟
 
-## Contribution Categories
-- [BNBChain wishlist](/BNBChain-wishlist.md)
 
 ## Challenge Importance Definition
 
@@ -25,6 +23,5 @@ The importance of challenges can be succinctly defined as *High*, *Medium*, and 
 4. **Scalability and Security Enhancement**: Projects that contribute to scalable data management and advanced security measures align with BNB Chain's goals of scalability and a secure, stable network environment.
 
 5. **Inclusivity and Network Stability**: Projects that lower barriers to network participation and contribute to the overall stability and reliability of the BNB Chain are considered of high importance.
-
 
 
