@@ -10,6 +10,11 @@ The BNB Chain Wishlist offers a repository to nurture visionary endeavors and ma
 Be part of the innovation revolution. Submit your ideas on [grants page](https://www.bnbchain.org/en/developers/developer-programs/builder-grant) and/or [forum](https://forum.bnbchain.org/t/join-bnb-chain-and-help-shape-the-future-of-web3-wishlist-of-bnb-chain/2067). let your brilliance shine on the BNB Chain stage! 🚀🌟
 
 
+## Where to find BNBChain wishlist items
+
+You can find the wishlist items in the project of [BNBChain Wishlist 2024H2](https://github.com/orgs/bnb-chain/projects/10). All the wishlist items are managed in this project and if there is items are being developed by community developers, the items will be moved from *TO DO* to *In Progress*. And if the wishlist item is fulfilled, it will be moved to *Done*. 
+
+
 ## Challenge Importance Definition
 
 The importance of challenges can be succinctly defined as *High*, *Medium*, and *Low* by several key factors:
