@@ -7,7 +7,7 @@ extend beyond these suggestions. Our commitment to innovation knows no bounds, a
 
 The BNB Chain Wishlist offers a repository to nurture visionary endeavors and make a meaningful impact on the BNB Chain's development. Whether you're exploring novel technologies, devising cutting-edge solutions, or revolutionizing decentralized applications, you can find the most demanding and innovative areas.
 
-Be part of the innovation revolution. Submit your ideas on [grants page](https://www.bnbchain.org/en/developers/developer-programs/builder-grant) and/or [forum](https://forum.bnbchain.org/t/join-bnb-chain-and-help-shape-the-future-of-web3-wishlist-of-bnb-chain/2067). let your brilliance shine on the BNB Chain stage! 🚀🌟
+Be part of the innovation revolution. Submit your ideas on [grants page](https://www.bnbchain.org/en/developers/developer-programs/builder-grant), or you can submit your project to [BNBChain MVB](https://www.bnbchain.org/en/bsc-mvb-program?ref=bnbchain.ghost.io) or [BNB Incubation Alliance (BIA)](https://www.bnbchain.org/en/blog/bnb-chain-and-binance-labs-launch-bnb-incubation-alliance-bia) to let your brilliance shine on the BNB Chain stage! 🚀🌟
 
 
 ## Where to find BNBChain wishlist items
