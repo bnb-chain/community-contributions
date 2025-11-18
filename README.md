@@ -12,21 +12,10 @@ Be part of the innovation revolution. Submit your ideas on [grants page](https:/
 
 ## Where to find BNBChain wishlist items
 
-You can find the wishlist items in the project of [BNBChain Wishlist](https://github.com/bnb-chain/community-contributions/issues). All the wishlist items are managed in this project and if there is items are being developed by community developers, the items will be moved from *TO DO* to *In Progress*. And if the wishlist item is fulfilled, it will be moved to *Done*. 
+You can find the wishlist items in the project of BNBChain Wishlist
+
+ - [2025h2](./2025/2025h2.md) 
 
 
-## Challenge Importance Definition
-
-The importance of challenges can be succinctly defined as *High*, *Medium*, and *Low* by several key factors:
-
-1. **Utilization of Core Strengths**: Projects that effectively utilize BNB Chain's high transaction throughput, low gas fees, and rapid transaction finality are crucial. They exemplify the chain's efficiency and cost-effectiveness.
-
-2. **Interoperability Focus**: Importance is placed on projects that leverage the unified address system for enhanced cross-chain interoperability, improving user experience within the blockchain ecosystem.
-
-3. **Innovative Application**: Projects that innovatively use BNB Greenfield and opBNB, especially for data-intensive and on-chain gaming applications, are highly valued for their unique contributions to the ecosystem.
-
-4. **Scalability and Security Enhancement**: Projects that contribute to scalable data management and advanced security measures align with BNB Chain's goals of scalability and a secure, stable network environment.
-
-5. **Inclusivity and Network Stability**: Projects that lower barriers to network participation and contribute to the overall stability and reliability of the BNB Chain are considered of high importance.
 
 
